@@ -7703,3 +7703,6 @@ date,continent,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2023-08-30,Oceania,NA,NA
 2023-08-30,North America,0,0
 2023-08-30,South America,0,0
+2023-08-31,Europe,6.451984212501525,0.030008339891063496
+2023-08-31,South America,0,0
+2023-08-31,Asia,0.15759019804373195,3.35103842737493e-4
