@@ -7997,3 +7997,7 @@ date,continent,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2023-10-18,Oceania,NA,NA
 2023-10-18,North America,0,0
 2023-10-18,South America,0,0
+2023-10-19,North America,0,0
+2023-10-19,Asia,0.2818832597136385,0.00572722931224079
+2023-10-19,Europe,10.372564262472826,0.06269258270234922
+2023-10-19,South America,0,0
