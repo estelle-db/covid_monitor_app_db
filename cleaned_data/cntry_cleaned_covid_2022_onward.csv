@@ -1,5 +1,4 @@
 date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
-2023-08-03,Afghanistan,0.6738417989792089,0.0034734113349443757
 2023-08-04,Afghanistan,0.6738417989792089,0.0034734113349443757
 2023-08-05,Afghanistan,0.6738417989792089,0.0034734113349443757
 2023-08-06,Afghanistan,0.6773152103141533,0.010420234004833127
@@ -346,7 +345,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Afghanistan,0,0
 2024-07-13,Afghanistan,0,0
 2024-07-14,Afghanistan,0,0
-2023-08-03,Africa,0.023530221515313667,2.0025720438564823e-4
 2023-08-04,Africa,0.023530221515313667,2.0025720438564823e-4
 2023-08-05,Africa,0.023530221515313667,2.0025720438564823e-4
 2023-08-06,Africa,0.03194102409951089,1.0012860219282412e-4
@@ -693,7 +691,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Africa,0.0010012860219282412,0
 2024-07-13,Africa,0.0010012860219282412,0
 2024-07-14,Africa,0.13577438457346952,4.0051440877129647e-4
-2023-08-03,Albania,0,0
 2023-08-04,Albania,0,0
 2023-08-05,Albania,0,0
 2023-08-06,Albania,0,0
@@ -1040,7 +1037,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Albania,0,0
 2024-07-13,Albania,0,0
 2024-07-14,Albania,0,0
-2023-08-03,Algeria,0,0
 2023-08-04,Algeria,0,0
 2023-08-05,Algeria,0,0
 2023-08-06,Algeria,0,0
@@ -1387,7 +1383,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Algeria,0.019088669018246462,0
 2024-07-13,Algeria,0.019088669018246462,0
 2024-07-14,Algeria,0.09862478992760675,0
-2023-08-03,American Samoa,0,0
 2023-08-04,American Samoa,0,0
 2023-08-05,American Samoa,0,0
 2023-08-06,American Samoa,0,0
@@ -1734,7 +1729,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,American Samoa,0,0
 2024-07-13,American Samoa,0,0
 2024-07-14,American Samoa,0,0
-2023-08-03,Andorra,0,0
 2023-08-04,Andorra,0,0
 2023-08-05,Andorra,0,0
 2023-08-06,Andorra,0,0
@@ -2081,7 +2075,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Andorra,0,0
 2024-07-13,Andorra,0,0
 2024-07-14,Andorra,0,0
-2023-08-03,Angola,0.020070409243512076,0
 2023-08-04,Angola,0.020070409243512076,0
 2023-08-05,Angola,0.020070409243512076,0
 2023-08-06,Angola,0.00802816369740483,0
@@ -2428,7 +2421,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Angola,0.01605632739480966,0
 2024-07-13,Angola,0.01605632739480966,0
 2024-07-14,Angola,0.00802816369740483,0
-2023-08-03,Anguilla,0,0
 2023-08-04,Anguilla,0,0
 2023-08-05,Anguilla,0,0
 2023-08-06,Anguilla,0,0
@@ -2775,7 +2767,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Anguilla,0,0
 2024-07-13,Anguilla,0,0
 2024-07-14,Anguilla,0,0
-2023-08-03,Antigua and Barbuda,0,0
 2023-08-04,Antigua and Barbuda,0,0
 2023-08-05,Antigua and Barbuda,0,0
 2023-08-06,Antigua and Barbuda,0,0
@@ -3122,7 +3113,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Antigua and Barbuda,0,0
 2024-07-13,Antigua and Barbuda,0,0
 2024-07-14,Antigua and Barbuda,0,0
-2023-08-03,Argentina,0,0
 2023-08-04,Argentina,0,0
 2023-08-05,Argentina,0,0
 2023-08-06,Argentina,0,0
@@ -3469,7 +3459,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Argentina,0.4112096788035549,0
 2024-07-13,Argentina,0.4112096788035549,0
 2024-07-14,Argentina,0.38295863216819614,0.0031390051817065255
-2023-08-03,Armenia,0.4624086434656727,0
 2023-08-04,Armenia,0.4624086434656727,0
 2023-08-05,Armenia,0.4624086434656727,0
 2023-08-06,Armenia,0.5651661197913777,0
@@ -3816,7 +3805,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Armenia,0,0
 2024-07-13,Armenia,0,0
 2024-07-14,Armenia,0,0
-2023-08-03,Aruba,0,0
 2023-08-04,Aruba,0,0
 2023-08-05,Aruba,0,0
 2023-08-06,Aruba,0,0
@@ -4163,7 +4151,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Aruba,0,0
 2024-07-13,Aruba,0,0
 2024-07-14,Aruba,0,0
-2023-08-03,Asia,8.633305042785132,0.004024244275677194
 2023-08-04,Asia,8.633305042785132,0.004024244275677194
 2023-08-05,Asia,8.633305042785132,0.004024244275677194
 2023-08-06,Asia,20.109299932937727,0.01310148700276861
@@ -4527,7 +4514,7 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-29,Asia,0.7417317607063966,0.0019062209726891973
 2024-07-30,Asia,0.7417317607063966,0.0019062209726891973
 2024-07-31,Asia,0.7417317607063966,0.0019062209726891973
-2023-08-03,Australia,30.151405898662794,0.4638677830563506
+2024-08-01,Asia,0.7417317607063966,0.0019062209726891973
 2023-08-04,Australia,30.151405898662794,0.4638677830563506
 2023-08-05,Australia,30.151405898662794,0.4638677830563506
 2023-08-06,Australia,29.52382007452773,0.327436082157424
@@ -4874,7 +4861,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Australia,0,0
 2024-07-13,Australia,0,0
 2024-07-14,Australia,0,0
-2023-08-03,Austria,0,0
 2023-08-04,Austria,0,0
 2023-08-05,Austria,0,0
 2023-08-06,Austria,0,0
@@ -5221,7 +5207,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Austria,0.27166392347361507,0
 2024-07-13,Austria,0.27166392347361507,0
 2024-07-14,Austria,0.1917627695107871,0
-2023-08-03,Azerbaijan,0.289629021909277,0.013791858186156046
 2023-08-04,Azerbaijan,0.289629021909277,0.013791858186156046
 2023-08-05,Azerbaijan,0.289629021909277,0.013791858186156046
 2023-08-06,Azerbaijan,0.23446158916465276,0.013791858186156046
@@ -5568,7 +5553,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Azerbaijan,0.37238017102621324,0
 2024-07-13,Azerbaijan,0.37238017102621324,0
 2024-07-14,Azerbaijan,0,0
-2023-08-03,Bahamas,0,0
 2023-08-04,Bahamas,0,0
 2023-08-05,Bahamas,0,0
 2023-08-06,Bahamas,0,0
@@ -5915,7 +5899,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Bahamas,36.58634743858982,0
 2024-07-13,Bahamas,36.58634743858982,0
 2024-07-14,Bahamas,37.28323024694391,0.34844140417704583
-2023-08-03,Bahrain,0,0
 2023-08-04,Bahrain,0,0
 2023-08-05,Bahrain,0,0
 2023-08-06,Bahrain,0,0
@@ -6262,7 +6245,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Bahrain,0,0
 2024-07-13,Bahrain,0,0
 2024-07-14,Bahrain,0,0
-2023-08-03,Bangladesh,0.36635093347085745,0.003338049507707129
 2023-08-04,Bangladesh,0.36635093347085745,0.003338049507707129
 2023-08-05,Bangladesh,0.36635093347085745,0.003338049507707129
 2023-08-06,Bangladesh,0.30793506708598267,0.0016690247538535645
@@ -6609,7 +6591,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Bangladesh,0.10097599760814066,0
 2024-07-13,Bangladesh,0.10097599760814066,0
 2024-07-14,Bangladesh,0.0851202624465318,0
-2023-08-03,Barbados,0,0
 2023-08-04,Barbados,0,0
 2023-08-05,Barbados,0,0
 2023-08-06,Barbados,0,0
@@ -6956,7 +6937,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Barbados,0,0
 2024-07-13,Barbados,0,0
 2024-07-14,Barbados,0,0
-2023-08-03,Belarus,0,0
 2023-08-04,Belarus,0,0
 2023-08-05,Belarus,0,0
 2023-08-06,Belarus,0,0
@@ -7303,7 +7283,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Belarus,0,0
 2024-07-13,Belarus,0,0
 2024-07-14,Belarus,0,0
-2023-08-03,Belgium,4.044540886453793,0
 2023-08-04,Belgium,4.044540886453793,0
 2023-08-05,Belgium,4.044540886453793,0
 2023-08-06,Belgium,6.287422650759987,0
@@ -7650,7 +7629,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Belgium,13.396009663315136,0
 2024-07-13,Belgium,13.396009663315136,0
 2024-07-14,Belgium,18.972573612819605,0
-2023-08-03,Belize,14.804396905881047,0
 2023-08-04,Belize,14.804396905881047,0
 2023-08-05,Belize,14.804396905881047,0
 2023-08-06,Belize,18.681738952659416,0
@@ -7997,7 +7975,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Belize,0,0
 2024-07-13,Belize,0,0
 2024-07-14,Belize,0.35248564061621535,0
-2023-08-03,Benin,0,0
 2023-08-04,Benin,0,0
 2023-08-05,Benin,0,0
 2023-08-06,Benin,0,0
@@ -8344,7 +8321,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Benin,0,0
 2024-07-13,Benin,0,0
 2024-07-14,Benin,0,0
-2023-08-03,Bermuda,0,0
 2023-08-04,Bermuda,0,0
 2023-08-05,Bermuda,0,0
 2023-08-06,Bermuda,0,0
@@ -8691,7 +8667,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Bermuda,0,0
 2024-07-13,Bermuda,0,0
 2024-07-14,Bermuda,0,0
-2023-08-03,Bhutan,0.18257507167440876,0
 2023-08-04,Bhutan,0.18257507167440876,0
 2023-08-05,Bhutan,0.18257507167440876,0
 2023-08-06,Bhutan,0,0
@@ -9038,7 +9013,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Bhutan,0,0
 2024-07-13,Bhutan,0,0
 2024-07-14,Bhutan,0,0
-2023-08-03,Bolivia,6.439263059415652,0
 2023-08-04,Bolivia,6.439263059415652,0
 2023-08-05,Bolivia,6.439263059415652,0
 2023-08-06,Bolivia,5.3641047990413515,0
@@ -9385,7 +9359,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Bolivia,0,0
 2024-07-13,Bolivia,0,0
 2024-07-14,Bolivia,0.01168650283015545,0
-2023-08-03,Bonaire Sint Eustatius and Saba,0,0
 2023-08-04,Bonaire Sint Eustatius and Saba,0,0
 2023-08-05,Bonaire Sint Eustatius and Saba,0,0
 2023-08-06,Bonaire Sint Eustatius and Saba,0,0
@@ -9732,7 +9705,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Bonaire Sint Eustatius and Saba,0,0
 2024-07-13,Bonaire Sint Eustatius and Saba,0,0
 2024-07-14,Bonaire Sint Eustatius and Saba,0,0
-2023-08-03,Bosnia and Herzegovina,0.04417993426909379,0
 2023-08-04,Bosnia and Herzegovina,0.04417993426909379,0
 2023-08-05,Bosnia and Herzegovina,0.04417993426909379,0
 2023-08-06,Bosnia and Herzegovina,0.17671973707637517,0
@@ -10079,7 +10051,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Bosnia and Herzegovina,0.04417993426909379,0
 2024-07-13,Bosnia and Herzegovina,0.04417993426909379,0
 2024-07-14,Bosnia and Herzegovina,0.30925953988365656,0.08835986853818759
-2023-08-03,Botswana,1.1948664193655258,0.05431210997116027
 2023-08-04,Botswana,1.1948664193655258,0.05431210997116027
 2023-08-05,Botswana,1.1948664193655258,0.05431210997116027
 2023-08-06,Botswana,0.9233058695097245,0
@@ -10426,7 +10397,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Botswana,0,0
 2024-07-13,Botswana,0,0
 2024-07-14,Botswana,2.4983570586733723,0
-2023-08-03,Brazil,0,0
 2023-08-04,Brazil,0,0
 2023-08-05,Brazil,0,0
 2023-08-06,Brazil,0,0
@@ -10773,7 +10743,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Brazil,0,0
 2024-07-13,Brazil,0,0
 2024-07-14,Brazil,0,0
-2023-08-03,British Virgin Islands,9.11892907296967,0
 2023-08-04,British Virgin Islands,9.11892907296967,0
 2023-08-05,British Virgin Islands,9.11892907296967,0
 2023-08-06,British Virgin Islands,13.678393609454506,0
@@ -11120,7 +11089,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,British Virgin Islands,22.797322682424177,0
 2024-07-13,British Virgin Islands,22.797322682424177,0
 2024-07-14,British Virgin Islands,0,0
-2023-08-03,Brunei,27.680436676387696,0.31816593880905397
 2023-08-04,Brunei,27.680436676387696,0.31816593880905397
 2023-08-05,Brunei,27.680436676387696,0.31816593880905397
 2023-08-06,Brunei,37.86174671827742,0
@@ -11467,7 +11435,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Brunei,134.58419211622984,0
 2024-07-13,Brunei,134.58419211622984,0
 2024-07-14,Brunei,134.9023580550389,0
-2023-08-03,Bulgaria,2.4223946382085146,0.02106430120181317
 2023-08-04,Bulgaria,2.4223946382085146,0.02106430120181317
 2023-08-05,Bulgaria,2.4223946382085146,0.02106430120181317
 2023-08-06,Bulgaria,3.7283813127209315,0
@@ -11814,7 +11781,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Bulgaria,0.4634146264398898,0
 2024-07-13,Bulgaria,0.4634146264398898,0
 2024-07-14,Bulgaria,0.6740576384580215,0
-2023-08-03,Burkina Faso,0,0
 2023-08-04,Burkina Faso,0,0
 2023-08-05,Burkina Faso,0,0
 2023-08-06,Burkina Faso,0,0
@@ -12161,7 +12127,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Burkina Faso,0,0
 2024-07-13,Burkina Faso,0,0
 2024-07-14,Burkina Faso,0.05040438556461745,0
-2023-08-03,Burundi,0.05541573488341045,0
 2023-08-04,Burundi,0.05541573488341045,0
 2023-08-05,Burundi,0.05541573488341045,0
 2023-08-06,Burundi,0.04433258790672836,0
@@ -12508,7 +12473,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Burundi,0,0
 2024-07-13,Burundi,0,0
 2024-07-14,Burundi,0,0
-2023-08-03,Cambodia,0,0
 2023-08-04,Cambodia,0,0
 2023-08-05,Cambodia,0,0
 2023-08-06,Cambodia,0.025559114794819475,0
@@ -12855,7 +12819,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Cambodia,0.07667734438445843,0
 2024-07-13,Cambodia,0.07667734438445843,0
 2024-07-14,Cambodia,0.05111822958963895,0
-2023-08-03,Cameroon,0,0
 2023-08-04,Cameroon,0,0
 2023-08-05,Cameroon,0,0
 2023-08-06,Cameroon,0,0
@@ -13202,7 +13165,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Cameroon,0,0
 2024-07-13,Cameroon,0,0
 2024-07-14,Cameroon,0.005117660281051462,0
-2023-08-03,Canada,3.737272062439519,0.08172960772730557
 2023-08-04,Canada,3.737272062439519,0.08172960772730557
 2023-08-05,Canada,3.737272062439519,0.08172960772730557
 2023-08-06,Canada,3.867296438369323,0.09287455423557452
@@ -13559,7 +13521,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-22,Canada,0.15602925111576518,0
 2024-07-23,Canada,0.15602925111576518,0
 2024-07-24,Canada,0.15602925111576518,0
-2023-08-03,Cape Verde,2.4084001142545017,0
 2023-08-04,Cape Verde,2.4084001142545017,0
 2023-08-05,Cape Verde,2.4084001142545017,0
 2023-08-06,Cape Verde,1.685880079978151,0
@@ -13906,7 +13867,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Cape Verde,0,0
 2024-07-13,Cape Verde,0,0
 2024-07-14,Cape Verde,0,0
-2023-08-03,Cayman Islands,0,0
 2023-08-04,Cayman Islands,0,0
 2023-08-05,Cayman Islands,0,0
 2023-08-06,Cayman Islands,0,0
@@ -14253,7 +14213,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Cayman Islands,0,0
 2024-07-13,Cayman Islands,0,0
 2024-07-14,Cayman Islands,0,0
-2023-08-03,Central African Republic,0,0
 2023-08-04,Central African Republic,0,0
 2023-08-05,Central African Republic,0,0
 2023-08-06,Central African Republic,0,0
@@ -14600,7 +14559,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Central African Republic,0,0
 2024-07-13,Central African Republic,0,0
 2024-07-14,Central African Republic,0.025605548169208427,0
-2023-08-03,Chad,0,0
 2023-08-04,Chad,0,0
 2023-08-05,Chad,0,0
 2023-08-06,Chad,0,0
@@ -14947,7 +14905,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Chad,0,0
 2024-07-13,Chad,0,0
 2024-07-14,Chad,0,0
-2023-08-03,Chile,1.9092570634786874,0.014574481400600666
 2023-08-04,Chile,1.9092570634786874,0.014574481400600666
 2023-08-05,Chile,1.9092570634786874,0.014574481400600666
 2023-08-06,Chile,2.375640468297908,0.02914896280120133
@@ -15294,7 +15251,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Chile,0.30606410941261397,0.014574481400600666
 2024-07-13,Chile,0.30606410941261397,0.014574481400600666
 2024-07-14,Chile,0.5319685711219243,0.007287240700300333
-2023-08-03,China,0.25457831395601965,0
 2023-08-04,China,0.25457831395601965,0
 2023-08-05,China,0.25457831395601965,0
 2023-08-06,China,0.19576781797326345,0.011120894470333799
@@ -15641,7 +15597,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,China,0.16741454648583584,0.0010018823847147565
 2024-07-13,China,0.16741454648583584,0.0010018823847147565
 2024-07-14,China,0.18825370008790276,2.003764769429513e-4
-2023-08-03,Colombia,0,0
 2023-08-04,Colombia,0,0
 2023-08-05,Colombia,0,0
 2023-08-06,Colombia,0,0
@@ -15988,7 +15943,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Colombia,1.8919459491917059,0
 2024-07-13,Colombia,1.8919459491917059,0
 2024-07-14,Colombia,2.181107993827993,0
-2023-08-03,Comoros,0,0
 2023-08-04,Comoros,0,0
 2023-08-05,Comoros,0,0
 2023-08-06,Comoros,0,0
@@ -16335,7 +16289,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Comoros,0,0
 2024-07-13,Comoros,0,0
 2024-07-14,Comoros,0,0
-2023-08-03,Congo,0,0
 2023-08-04,Congo,0,0
 2023-08-05,Congo,0,0
 2023-08-06,Congo,0,0
@@ -16682,7 +16635,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Congo,0,0
 2024-07-13,Congo,0,0
 2024-07-14,Congo,0.02392744624041197,0
-2023-08-03,Cook Islands,16.77514594376971,0
 2023-08-04,Cook Islands,16.77514594376971,0
 2023-08-05,Cook Islands,16.77514594376971,0
 2023-08-06,Cook Islands,8.387572971884856,0
@@ -17029,7 +16981,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Cook Islands,117.42602160638799,0
 2024-07-13,Cook Islands,117.42602160638799,0
 2024-07-14,Cook Islands,25.162718915654565,0
-2023-08-03,Costa Rica,0.1102965952654304,0
 2023-08-04,Costa Rica,0.1102965952654304,0
 2023-08-05,Costa Rica,0.1102965952654304,0
 2023-08-06,Costa Rica,0.0275741488163576,0
@@ -17376,7 +17327,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Costa Rica,0,0
 2024-07-13,Costa Rica,0,0
 2024-07-14,Costa Rica,0,0
-2023-08-03,Cote d'Ivoire,0,0
 2023-08-04,Cote d'Ivoire,0,0
 2023-08-05,Cote d'Ivoire,0,0
 2023-08-06,Cote d'Ivoire,0,0
@@ -17723,7 +17673,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Cote d'Ivoire,0,0
 2024-07-13,Cote d'Ivoire,0,0
 2024-07-14,Cote d'Ivoire,0.005072953227229202,0
-2023-08-03,Croatia,0.7797954433503953,0.03544524742501797
 2023-08-04,Croatia,0.7797954433503953,0.03544524742501797
 2023-08-05,Croatia,0.7797954433503953,0.03544524742501797
 2023-08-06,Croatia,1.169693165025593,0.14178098970007189
@@ -18070,7 +18019,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Croatia,0,0
 2024-07-13,Croatia,0,0
 2024-07-14,Croatia,0,0
-2023-08-03,Cuba,0,0
 2023-08-04,Cuba,0,0
 2023-08-05,Cuba,0,0
 2023-08-06,Cuba,0,0
@@ -18417,7 +18365,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Cuba,0,0
 2024-07-13,Cuba,0,0
 2024-07-14,Cuba,0,0
-2023-08-03,Curacao,0,0
 2023-08-04,Curacao,0,0
 2023-08-05,Curacao,0,0
 2023-08-06,Curacao,0,0
@@ -18764,7 +18711,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Curacao,0,0
 2024-07-13,Curacao,0,0
 2024-07-14,Curacao,0,0
-2023-08-03,Cyprus,0,0
 2023-08-04,Cyprus,0,0
 2023-08-05,Cyprus,0,0
 2023-08-06,Cyprus,0,0
@@ -19111,7 +19057,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Cyprus,75.5733891747338,0
 2024-07-13,Cyprus,75.5733891747338,0
 2024-07-14,Cyprus,87.37176638766694,0.1594375299045017
-2023-08-03,Czechia,1.0346057940919382,0
 2023-08-04,Czechia,1.0346057940919382,0
 2023-08-05,Czechia,1.0346057940919382,0
 2023-08-06,Czechia,1.6744277983330051,0
@@ -19475,7 +19420,7 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-29,Czechia,27.063109455983852,0
 2024-07-30,Czechia,27.063109455983852,0
 2024-07-31,Czechia,27.063109455983852,0
-2023-08-03,Democratic Republic of Congo,0,0
+2024-08-01,Czechia,27.063109455983852,0
 2023-08-04,Democratic Republic of Congo,0,0
 2023-08-05,Democratic Republic of Congo,0,0
 2023-08-06,Democratic Republic of Congo,0,0
@@ -19822,7 +19767,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Democratic Republic of Congo,0,0
 2024-07-13,Democratic Republic of Congo,0,0
 2024-07-14,Democratic Republic of Congo,0.3881273365626374,0.0014428525522774624
-2023-08-03,Denmark,1.4328800259511572,0.024286102134765376
 2023-08-04,Denmark,1.4328800259511572,0.024286102134765376
 2023-08-05,Denmark,1.4328800259511572,0.024286102134765376
 2023-08-06,Denmark,2.5500407241503646,0.14571661280859224
@@ -20169,7 +20113,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Denmark,0,0
 2024-07-13,Denmark,0,0
 2024-07-14,Denmark,0,0
-2023-08-03,Djibouti,0,0
 2023-08-04,Djibouti,0,0
 2023-08-05,Djibouti,0,0
 2023-08-06,Djibouti,0,0
@@ -20516,7 +20459,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Djibouti,0,0
 2024-07-13,Djibouti,0,0
 2024-07-14,Djibouti,0,0
-2023-08-03,Dominica,17.671105386545612,0
 2023-08-04,Dominica,17.671105386545612,0
 2023-08-05,Dominica,17.671105386545612,0
 2023-08-06,Dominica,19.634561540606235,0
@@ -20863,7 +20805,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Dominica,0,0
 2024-07-13,Dominica,0,0
 2024-07-14,Dominica,0,0
-2023-08-03,Dominican Republic,0,0
 2023-08-04,Dominican Republic,0,0
 2023-08-05,Dominican Republic,0,0
 2023-08-06,Dominican Republic,0,0
@@ -21210,7 +21151,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Dominican Republic,0,0
 2024-07-13,Dominican Republic,0,0
 2024-07-14,Dominican Republic,0,0
-2023-08-03,East Timor,0,0
 2023-08-04,East Timor,0,0
 2023-08-05,East Timor,0,0
 2023-08-06,East Timor,0,0
@@ -21557,7 +21497,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,East Timor,0,0
 2024-07-13,East Timor,0,0
 2024-07-14,East Timor,0,0
-2023-08-03,Ecuador,0,0
 2023-08-04,Ecuador,0,0
 2023-08-05,Ecuador,0,0
 2023-08-06,Ecuador,0,0
@@ -21904,7 +21843,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Ecuador,0.8015426823779825,0
 2024-07-13,Ecuador,0.8015426823779825,0
 2024-07-14,Ecuador,0.6507574252969759,0
-2023-08-03,Egypt,0,0
 2023-08-04,Egypt,0,0
 2023-08-05,Egypt,0,0
 2023-08-06,Egypt,0,0
@@ -22251,7 +22189,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Egypt,0,0
 2024-07-13,Egypt,0,0
 2024-07-14,Egypt,0,0
-2023-08-03,El Salvador,0.06763649738446283,0
 2023-08-04,El Salvador,0.06763649738446283,0
 2023-08-05,El Salvador,0.06763649738446283,0
 2023-08-06,El Salvador,0.0901819965126171,0
@@ -22598,7 +22535,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,El Salvador,0.13527299476892565,0
 2024-07-13,El Salvador,0.13527299476892565,0
 2024-07-14,El Salvador,0.13527299476892565,0
-2023-08-03,England,NA,NA
 2023-08-04,England,NA,NA
 2023-08-05,England,NA,NA
 2023-08-06,England,NA,NA
@@ -22726,7 +22662,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2023-12-06,England,NA,NA
 2023-12-07,England,NA,NA
 2023-12-08,England,NA,NA
-2023-08-03,Equatorial Guinea,0,0
 2023-08-04,Equatorial Guinea,0,0
 2023-08-05,Equatorial Guinea,0,0
 2023-08-06,Equatorial Guinea,0,0
@@ -23073,7 +23008,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Equatorial Guinea,0,0
 2024-07-13,Equatorial Guinea,0,0
 2024-07-14,Equatorial Guinea,0,0
-2023-08-03,Eritrea,0,0
 2023-08-04,Eritrea,0,0
 2023-08-05,Eritrea,0,0
 2023-08-06,Eritrea,0,0
@@ -23420,7 +23354,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Eritrea,0,0
 2024-07-13,Eritrea,0,0
 2024-07-14,Eritrea,0,0
-2023-08-03,Estonia,0,0
 2023-08-04,Estonia,0,0
 2023-08-05,Estonia,0,0
 2023-08-06,Estonia,2.9087154595425693,0.10773020220528033
@@ -23775,7 +23708,15 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-20,Estonia,0,0
 2024-07-21,Estonia,0,0
 2024-07-22,Estonia,0,0
-2023-08-03,Eswatini,0,0
+2024-07-23,Estonia,0,0
+2024-07-24,Estonia,0,0
+2024-07-25,Estonia,0,0
+2024-07-26,Estonia,0,0
+2024-07-27,Estonia,0,0
+2024-07-28,Estonia,0,0
+2024-07-29,Estonia,0,0
+2024-07-30,Estonia,0,0
+2024-07-31,Estonia,0,0
 2023-08-04,Eswatini,0,0
 2023-08-05,Eswatini,0,0
 2023-08-06,Eswatini,0,0
@@ -24122,7 +24063,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Eswatini,0,0
 2024-07-13,Eswatini,0,0
 2024-07-14,Eswatini,0,0
-2023-08-03,Ethiopia,0,0
 2023-08-04,Ethiopia,0,0
 2023-08-05,Ethiopia,0,0
 2023-08-06,Ethiopia,0.05210386756402896,0
@@ -24469,7 +24409,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Ethiopia,0,0
 2024-07-13,Ethiopia,0,0
 2024-07-14,Ethiopia,0.008105046065515615,0
-2023-08-03,Europe,3.927379446564226,0.05370513015422852
 2023-08-04,Europe,3.927379446564226,0.05370513015422852
 2023-08-05,Europe,3.927379446564226,0.05370513015422852
 2023-08-06,Europe,4.997070556814699,0.06271991985868831
@@ -24833,7 +24772,7 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-29,Europe,32.37748034173052,0.1960237250629341
 2024-07-30,Europe,32.37748034173052,0.1960237250629341
 2024-07-31,Europe,32.37748034173052,0.1960237250629341
-2023-08-03,European Union (27),NA,NA
+2024-08-01,Europe,32.37748034173052,0.1960237250629341
 2023-08-04,European Union (27),NA,NA
 2023-08-05,European Union (27),NA,NA
 2023-08-06,European Union (27),NA,NA
@@ -25197,7 +25136,7 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-29,European Union (27),NA,NA
 2024-07-30,European Union (27),NA,NA
 2024-07-31,European Union (27),NA,NA
-2023-08-03,European Union (27),3.824784075967605,0.04696880544666491
+2024-08-01,European Union (27),NA,NA
 2023-08-04,European Union (27),3.824784075967605,0.04696880544666491
 2023-08-05,European Union (27),3.824784075967605,0.04696880544666491
 2023-08-06,European Union (27),5.115474155370214,0.05712422284053841
@@ -25544,7 +25483,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,European Union (27),3.8377957045035056,0.03649603125923287
 2024-07-13,European Union (27),3.8377957045035056,0.03649603125923287
 2024-07-14,European Union (27),4.383966746217764,0.03681338805279142
-2023-08-03,Falkland Islands,0,0
 2023-08-04,Falkland Islands,0,0
 2023-08-05,Falkland Islands,0,0
 2023-08-06,Falkland Islands,0,0
@@ -25891,7 +25829,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Falkland Islands,0,0
 2024-07-13,Falkland Islands,0,0
 2024-07-14,Falkland Islands,0,0
-2023-08-03,Faroe Islands,0,0
 2023-08-04,Faroe Islands,0,0
 2023-08-05,Faroe Islands,0,0
 2023-08-06,Faroe Islands,0,0
@@ -26238,7 +26175,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Faroe Islands,0,0
 2024-07-13,Faroe Islands,0,0
 2024-07-14,Faroe Islands,0,0
-2023-08-03,Fiji,0,0
 2023-08-04,Fiji,0,0
 2023-08-05,Fiji,0,0
 2023-08-06,Fiji,0,0
@@ -26585,7 +26521,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Fiji,0,0
 2024-07-13,Fiji,0,0
 2024-07-14,Fiji,0,0
-2023-08-03,Finland,4.82142486511935,0.46409437204357384
 2023-08-04,Finland,4.82142486511935,0.46409437204357384
 2023-08-05,Finland,4.82142486511935,0.46409437204357384
 2023-08-06,Finland,6.342623084595509,0.38674531003631146
@@ -26932,7 +26867,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Finland,0,0
 2024-07-13,Finland,0,0
 2024-07-14,Finland,0,0
-2023-08-03,France,0,0
 2023-08-04,France,0,0
 2023-08-05,France,0,0
 2023-08-06,France,0,0
@@ -27279,7 +27213,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,France,0,0
 2024-07-13,France,0,0
 2024-07-14,France,0,0
-2023-08-03,French Guiana,0,0
 2023-08-04,French Guiana,0,0
 2023-08-05,French Guiana,0,0
 2023-08-06,French Guiana,0,0
@@ -27626,7 +27559,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,French Guiana,0,0
 2024-07-13,French Guiana,0,0
 2024-07-14,French Guiana,0,0
-2023-08-03,French Polynesia,0.46640833863484144,0
 2023-08-04,French Polynesia,0.46640833863484144,0
 2023-08-05,French Polynesia,0.46640833863484144,0
 2023-08-06,French Polynesia,0,0
@@ -27973,7 +27905,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,French Polynesia,9.328166772696829,0
 2024-07-13,French Polynesia,9.328166772696829,0
 2024-07-14,French Polynesia,0,0
-2023-08-03,Gabon,0,0
 2023-08-04,Gabon,0,0
 2023-08-05,Gabon,0,0
 2023-08-06,Gabon,0,0
@@ -28320,7 +28251,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Gabon,0,0
 2024-07-13,Gabon,0,0
 2024-07-14,Gabon,0,0
-2023-08-03,Gambia,0,0
 2023-08-04,Gambia,0,0
 2023-08-05,Gambia,0,0
 2023-08-06,Gambia,0,0
@@ -28667,7 +28597,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Gambia,0,0
 2024-07-13,Gambia,0,0
 2024-07-14,Gambia,0,0
-2023-08-03,Georgia,29.796996989206125,0.15260945961181113
 2023-08-04,Georgia,29.796996989206125,0.15260945961181113
 2023-08-05,Georgia,29.796996989206125,0.15260945961181113
 2023-08-06,Georgia,42.95956288072484,0.07630472980590557
@@ -29014,7 +28943,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Georgia,0,0
 2024-07-13,Georgia,0,0
 2024-07-14,Georgia,0,0
-2023-08-03,Germany,0,0
 2023-08-04,Germany,0,0
 2023-08-05,Germany,0,0
 2023-08-06,Germany,0,0
@@ -29361,7 +29289,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Germany,0,0
 2024-07-13,Germany,0,0
 2024-07-14,Germany,0,0
-2023-08-03,Ghana,0,0
 2023-08-04,Ghana,0,0
 2023-08-05,Ghana,0,0
 2023-08-06,Ghana,0,0
@@ -29708,7 +29635,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Ghana,0,0
 2024-07-13,Ghana,0,0
 2024-07-14,Ghana,0.021337330868046574,0
-2023-08-03,Gibraltar,0,0
 2023-08-04,Gibraltar,0,0
 2023-08-05,Gibraltar,0,0
 2023-08-06,Gibraltar,0,0
@@ -30055,7 +29981,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Gibraltar,0,0
 2024-07-13,Gibraltar,0,0
 2024-07-14,Gibraltar,0,0
-2023-08-03,Greece,46.42697709178775,0.3576596753737723
 2023-08-04,Greece,46.42697709178775,0.3576596753737723
 2023-08-05,Greece,46.42697709178775,0.3576596753737723
 2023-08-06,Greece,60.8571693789834,0.37141581673430196
@@ -30402,7 +30327,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Greece,56.840376101708735,0.30263510993165343
 2024-07-13,Greece,56.840376101708735,0.30263510993165343
 2024-07-14,Greece,62.2878080804785,0.37141581673430196
-2023-08-03,Greenland,0,0
 2023-08-04,Greenland,0,0
 2023-08-05,Greenland,0,0
 2023-08-06,Greenland,0,0
@@ -30749,7 +30673,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Greenland,0,0
 2024-07-13,Greenland,0,0
 2024-07-14,Greenland,0,0
-2023-08-03,Grenada,0,0
 2023-08-04,Grenada,0,0
 2023-08-05,Grenada,0,0
 2023-08-06,Grenada,0,0
@@ -31096,7 +31019,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Grenada,0,0
 2024-07-13,Grenada,0,0
 2024-07-14,Grenada,0,0
-2023-08-03,Guadeloupe,0,0
 2023-08-04,Guadeloupe,0,0
 2023-08-05,Guadeloupe,0,0
 2023-08-06,Guadeloupe,0,0
@@ -31443,7 +31365,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Guadeloupe,0,0
 2024-07-13,Guadeloupe,0,0
 2024-07-14,Guadeloupe,0,0
-2023-08-03,Guam,14.13743751460522,0
 2023-08-04,Guam,14.13743751460522,0
 2023-08-05,Guam,14.13743751460522,0
 2023-08-06,Guam,0,0
@@ -31790,7 +31711,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Guam,0,0
 2024-07-13,Guam,0,0
 2024-07-14,Guam,0,0
-2023-08-03,Guatemala,0.01601186184344341,0
 2023-08-04,Guatemala,0.01601186184344341,0
 2023-08-05,Guatemala,0.01601186184344341,0
 2023-08-06,Guatemala,0.024017792765165115,0.008005930921721706
@@ -32137,7 +32057,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Guatemala,0,0
 2024-07-13,Guatemala,0,0
 2024-07-14,Guatemala,0.024017792765165115,0
-2023-08-03,Guernsey,0,0
 2023-08-04,Guernsey,0,0
 2023-08-05,Guernsey,0,0
 2023-08-06,Guernsey,0,0
@@ -32484,7 +32403,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Guernsey,0,0
 2024-07-13,Guernsey,0,0
 2024-07-14,Guernsey,0,0
-2023-08-03,Guinea,0,0
 2023-08-04,Guinea,0,0
 2023-08-05,Guinea,0,0
 2023-08-06,Guinea,0,0
@@ -32831,7 +32749,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Guinea,0,0
 2024-07-13,Guinea,0,0
 2024-07-14,Guinea,0,0
-2023-08-03,Guinea-Bissau,0,0
 2023-08-04,Guinea-Bissau,0,0
 2023-08-05,Guinea-Bissau,0,0
 2023-08-06,Guinea-Bissau,0,0
@@ -33178,7 +33095,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Guinea-Bissau,0,0
 2024-07-13,Guinea-Bissau,0,0
 2024-07-14,Guinea-Bissau,0,0
-2023-08-03,Guyana,5.299333750096492,0
 2023-08-04,Guyana,5.299333750096492,0
 2023-08-05,Guyana,5.299333750096492,0
 2023-08-06,Guyana,2.296377958375147,0
@@ -33525,7 +33441,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Guyana,7.9490006251447385,0
 2024-07-13,Guyana,7.9490006251447385,0
 2024-07-14,Guyana,0,0
-2023-08-03,Haiti,0,0
 2023-08-04,Haiti,0,0
 2023-08-05,Haiti,0,0
 2023-08-06,Haiti,0,0
@@ -33872,7 +33787,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Haiti,0,0
 2024-07-13,Haiti,0,0
 2024-07-14,Haiti,0,0
-2023-08-03,High-income countries,NA,NA
 2023-08-04,High-income countries,NA,NA
 2023-08-05,High-income countries,NA,NA
 2023-08-06,High-income countries,NA,NA
@@ -34236,7 +34150,7 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-29,High-income countries,NA,NA
 2024-07-30,High-income countries,NA,NA
 2024-07-31,High-income countries,NA,NA
-2023-08-03,High-income countries,34.731301817667706,0.11229662686750833
+2024-08-01,High-income countries,NA,NA
 2023-08-04,High-income countries,34.731301817667706,0.11229662686750833
 2023-08-05,High-income countries,34.731301817667706,0.11229662686750833
 2023-08-06,High-income countries,78.75409280079006,0.14793909643278055
@@ -34583,7 +34497,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,High-income countries,2.4547608526236204,0.06374518595327533
 2024-07-13,High-income countries,2.4547608526236204,0.06374518595327533
 2024-07-14,High-income countries,2.5590607715758438,0.05871868383509592
-2023-08-03,Honduras,0.4244830542667627,0
 2023-08-04,Honduras,0.4244830542667627,0
 2023-08-05,Honduras,0.4244830542667627,0
 2023-08-06,Honduras,0.04107900525162219,0
@@ -34930,7 +34843,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Honduras,0.19170202450757023,0
 2024-07-13,Honduras,0.19170202450757023,0
 2024-07-14,Honduras,0.01369300175054073,0
-2023-08-03,Hong Kong,NA,NA
 2023-08-04,Hong Kong,NA,NA
 2023-08-05,Hong Kong,NA,NA
 2023-08-06,Hong Kong,NA,NA
@@ -35281,7 +35193,15 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-16,Hong Kong,NA,NA
 2024-07-17,Hong Kong,NA,NA
 2024-07-18,Hong Kong,NA,NA
-2023-08-03,Hungary,0.3869795540642542,0.014332576076453859
+2024-07-19,Hong Kong,NA,NA
+2024-07-20,Hong Kong,NA,NA
+2024-07-21,Hong Kong,NA,NA
+2024-07-22,Hong Kong,NA,NA
+2024-07-23,Hong Kong,NA,NA
+2024-07-24,Hong Kong,NA,NA
+2024-07-25,Hong Kong,NA,NA
+2024-07-26,Hong Kong,NA,NA
+2024-07-27,Hong Kong,NA,NA
 2023-08-04,Hungary,0.3869795540642542,0.014332576076453859
 2023-08-05,Hungary,0.3869795540642542,0.014332576076453859
 2023-08-06,Hungary,0.37264697798780033,0.014332576076453859
@@ -35628,7 +35548,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Hungary,0.300984097605531,0
 2024-07-13,Hungary,0.300984097605531,0
 2024-07-14,Hungary,0,0
-2023-08-03,Iceland,8.428082216708214,0
 2023-08-04,Iceland,8.428082216708214,0
 2023-08-05,Iceland,8.428082216708214,0
 2023-08-06,Iceland,11.875934032634301,0
@@ -35975,7 +35894,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Iceland,19.537826956914493,0
 2024-07-13,Iceland,19.537826956914493,0
 2024-07-14,Iceland,26.81662523498068,0
-2023-08-03,India,0.03266059286088794,1.0080429895335783e-4
 2023-08-04,India,0.03266059286088794,1.0080429895335783e-4
 2023-08-05,India,0.03266059286088794,1.0080429895335783e-4
 2023-08-06,India,0.039515285189716275,2.0160859790671566e-4
@@ -36339,7 +36257,7 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-29,India,0,0
 2024-07-30,India,0,0
 2024-07-31,India,0,0
-2023-08-03,Indonesia,0.07674320871137798,0.005703887133953769
+2024-08-01,India,0,0
 2023-08-04,Indonesia,0.07674320871137798,0.005703887133953769
 2023-08-05,Indonesia,0.07674320871137798,0.005703887133953769
 2023-08-06,Indonesia,0.06689104002545783,0.0010370703879915943
@@ -36686,7 +36604,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Indonesia,0.021259942953827684,0
 2024-07-13,Indonesia,0.021259942953827684,0
 2024-07-14,Indonesia,0.023334083729810873,5.185351939957972e-4
-2023-08-03,Iran,0.17262130137566467,0.008066415952133862
 2023-08-04,Iran,0.17262130137566467,0.008066415952133862
 2023-08-05,Iran,0.17262130137566467,0.008066415952133862
 2023-08-06,Iran,0.21779323070761428,0.008066415952133862
@@ -37033,7 +36950,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Iran,0,0
 2024-07-13,Iran,0,0
 2024-07-14,Iran,0,0
-2023-08-03,Iraq,0,0
 2023-08-04,Iraq,0,0
 2023-08-05,Iraq,0,0
 2023-08-06,Iraq,0,0
@@ -37380,7 +37296,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Iraq,0,0
 2024-07-13,Iraq,0,0
 2024-07-14,Iraq,0,0
-2023-08-03,Ireland,10.380596463953621,0.3412798837464204
 2023-08-04,Ireland,10.380596463953621,0.3412798837464204
 2023-08-05,Ireland,10.380596463953621,0.3412798837464204
 2023-08-06,Ireland,17.774993945126067,0.2275199224976136
@@ -37727,7 +37642,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Ireland,27.785870535021065,0.1421999515610085
 2024-07-13,Ireland,27.785870535021065,0.1421999515610085
 2024-07-14,Ireland,24.08867179443484,0.0568799806244034
-2023-08-03,Isle of Man,0,0
 2023-08-04,Isle of Man,0,0
 2023-08-05,Isle of Man,0,0
 2023-08-06,Isle of Man,0,0
@@ -38074,7 +37988,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Isle of Man,0,0
 2024-07-13,Isle of Man,0,0
 2024-07-14,Isle of Man,0,0
-2023-08-03,Israel,8.51186066552772,0.12095006274284505
 2023-08-04,Israel,8.51186066552772,0.12095006274284505
 2023-08-05,Israel,8.51186066552772,0.12095006274284505
 2023-08-06,Israel,8.179247992984898,0.15118757842855632
@@ -38421,7 +38334,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Israel,0,0
 2024-07-13,Israel,0,0
 2024-07-14,Israel,0,0
-2023-08-03,Italy,10.601015281568,0.041136101298026924
 2023-08-04,Italy,10.601015281568,0.041136101298026924
 2023-08-05,Italy,10.601015281568,0.041136101298026924
 2023-08-06,Italy,15.370383261474533,0.11856876256490115
@@ -38778,7 +38690,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-22,Italy,0,0
 2024-07-23,Italy,0,0
 2024-07-24,Italy,0,0
-2023-08-03,Jamaica,5.861050459905514,0.3536840794770569
 2023-08-04,Jamaica,5.861050459905514,0.3536840794770569
 2023-08-05,Jamaica,5.861050459905514,0.3536840794770569
 2023-08-06,Jamaica,4.597893033201739,0.10105259413630195
@@ -39125,7 +39036,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Jamaica,1.9199992885897372,0
 2024-07-13,Jamaica,1.9199992885897372,0
 2024-07-14,Jamaica,2.677893744612002,0
-2023-08-03,Japan,0,0
 2023-08-04,Japan,0,0
 2023-08-05,Japan,0,0
 2023-08-06,Japan,0,0
@@ -39472,7 +39382,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Japan,0,0
 2024-07-13,Japan,0,0
 2024-07-14,Japan,0,0
-2023-08-03,Jersey,0,0
 2023-08-04,Jersey,0,0
 2023-08-05,Jersey,0,0
 2023-08-06,Jersey,0,0
@@ -39819,7 +39728,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Jersey,0,0
 2024-07-13,Jersey,0,0
 2024-07-14,Jersey,0,0
-2023-08-03,Jordan,0,0
 2023-08-04,Jordan,0,0
 2023-08-05,Jordan,0,0
 2023-08-06,Jordan,0,0
@@ -40166,7 +40074,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Jordan,0,0
 2024-07-13,Jordan,0,0
 2024-07-14,Jordan,0,0
-2023-08-03,Kazakhstan,0,0
 2023-08-04,Kazakhstan,0,0
 2023-08-05,Kazakhstan,0,0
 2023-08-06,Kazakhstan,0,0
@@ -40513,7 +40420,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Kazakhstan,0,0
 2024-07-13,Kazakhstan,0,0
 2024-07-14,Kazakhstan,0,0
-2023-08-03,Kenya,0.007932470602766336,0
 2023-08-04,Kenya,0.007932470602766336,0
 2023-08-05,Kenya,0.007932470602766336,0
 2023-08-06,Kenya,0,0
@@ -40860,7 +40766,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Kenya,0,0
 2024-07-13,Kenya,0,0
 2024-07-14,Kenya,0.0026441568675887785,0
-2023-08-03,Kiribati,0,0
 2023-08-04,Kiribati,0,0
 2023-08-05,Kiribati,0,0
 2023-08-06,Kiribati,0,0
@@ -41207,7 +41112,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Kiribati,0,0
 2024-07-13,Kiribati,0,0
 2024-07-14,Kiribati,0,0
-2023-08-03,Kosovo,0.32064629467153993,0
 2023-08-04,Kosovo,0.32064629467153993,0
 2023-08-05,Kosovo,0.32064629467153993,0
 2023-08-06,Kosovo,0,0
@@ -41554,7 +41458,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Kosovo,0,0
 2024-07-13,Kosovo,0,0
 2024-07-14,Kosovo,0,0
-2023-08-03,Kuwait,0,0
 2023-08-04,Kuwait,0,0
 2023-08-05,Kuwait,0,0
 2023-08-06,Kuwait,0.33464735965575765,0
@@ -41901,7 +41804,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Kuwait,0,0
 2024-07-13,Kuwait,0,0
 2024-07-14,Kuwait,0,0
-2023-08-03,Kyrgyzstan,0.17236049879146204,0
 2023-08-04,Kyrgyzstan,0.17236049879146204,0
 2023-08-05,Kyrgyzstan,0.17236049879146204,0
 2023-08-06,Kyrgyzstan,0.08618024939573102,0
@@ -42248,7 +42150,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Kyrgyzstan,0,0
 2024-07-13,Kyrgyzstan,0,0
 2024-07-14,Kyrgyzstan,0,0
-2023-08-03,Laos,0.7020028463748924,0
 2023-08-04,Laos,0.7020028463748924,0
 2023-08-05,Laos,0.7020028463748924,0
 2023-08-06,Laos,0.4363801477465547,0
@@ -42595,7 +42496,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Laos,0.07589219960809647,0
 2024-07-13,Laos,0.07589219960809647,0
 2024-07-14,Laos,0,0
-2023-08-03,Latvia,1.6982413475761233,0.07719278852618741
 2023-08-04,Latvia,1.6982413475761233,0.07719278852618741
 2023-08-05,Latvia,1.6982413475761233,0.07719278852618741
 2023-08-06,Latvia,1.0806990393666238,0.07719278852618741
@@ -42942,7 +42842,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Latvia,0,0
 2024-07-13,Latvia,0,0
 2024-07-14,Latvia,0,0
-2023-08-03,Lebanon,0,0
 2023-08-04,Lebanon,0,0
 2023-08-05,Lebanon,0,0
 2023-08-06,Lebanon,0,0
@@ -43289,7 +43188,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Lebanon,0,0
 2024-07-13,Lebanon,0,0
 2024-07-14,Lebanon,0,0
-2023-08-03,Lesotho,0,0
 2023-08-04,Lesotho,0,0
 2023-08-05,Lesotho,0,0
 2023-08-06,Lesotho,0,0
@@ -43636,7 +43534,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Lesotho,0,0
 2024-07-13,Lesotho,0,0
 2024-07-14,Lesotho,0,0
-2023-08-03,Liberia,0,0
 2023-08-04,Liberia,0,0
 2023-08-05,Liberia,0,0
 2023-08-06,Liberia,0,0
@@ -43983,7 +43880,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Liberia,0,0
 2024-07-13,Liberia,0,0
 2024-07-14,Liberia,0,0
-2023-08-03,Libya,0,0
 2023-08-04,Libya,0,0
 2023-08-05,Libya,0,0
 2023-08-06,Libya,0,0
@@ -44330,7 +44226,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Libya,0,0
 2024-07-13,Libya,0,0
 2024-07-14,Libya,0,0
-2023-08-03,Liechtenstein,0,0
 2023-08-04,Liechtenstein,0,0
 2023-08-05,Liechtenstein,0,0
 2023-08-06,Liechtenstein,0,0
@@ -44677,7 +44572,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Liechtenstein,14.519846815616095,0
 2024-07-13,Liechtenstein,14.519846815616095,0
 2024-07-14,Liechtenstein,3.6299617039040237,0
-2023-08-03,Lithuania,6.077793891723634,0.051946956339518235
 2023-08-04,Lithuania,6.077793891723634,0.051946956339518235
 2023-08-05,Lithuania,6.077793891723634,0.051946956339518235
 2023-08-06,Lithuania,7.480361712890627,0
@@ -45040,7 +44934,8 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-28,Lithuania,97.08886139855959,0
 2024-07-29,Lithuania,97.08886139855959,0
 2024-07-30,Lithuania,97.08886139855959,0
-2023-08-03,Low-income countries,NA,NA
+2024-07-31,Lithuania,97.08886139855959,0
+2024-08-01,Lithuania,97.08886139855959,0
 2023-08-04,Low-income countries,NA,NA
 2023-08-05,Low-income countries,NA,NA
 2023-08-06,Low-income countries,NA,NA
@@ -45191,7 +45086,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2023-12-29,Low-income countries,NA,NA
 2023-12-30,Low-income countries,NA,NA
 2023-12-31,Low-income countries,NA,NA
-2023-08-03,Low-income countries,0.04803190899161791,1.9367705238555605e-4
 2023-08-04,Low-income countries,0.04803190899161791,1.9367705238555605e-4
 2023-08-05,Low-income countries,0.04803190899161791,1.9367705238555605e-4
 2023-08-06,Low-income countries,0.06914270770164352,5.810311571566682e-4
@@ -45538,7 +45432,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Low-income countries,0,0
 2024-07-13,Low-income countries,0,0
 2024-07-14,Low-income countries,0.084636871892488,1.9367705238555605e-4
-2023-08-03,Lower-middle-income countries,NA,NA
 2023-08-04,Lower-middle-income countries,NA,NA
 2023-08-05,Lower-middle-income countries,NA,NA
 2023-08-06,Lower-middle-income countries,NA,NA
@@ -45902,7 +45795,7 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-29,Lower-middle-income countries,NA,NA
 2024-07-30,Lower-middle-income countries,NA,NA
 2024-07-31,Lower-middle-income countries,NA,NA
-2023-08-03,Lower-middle-income countries,0.15463264567536755,0.0017898260468481308
+2024-08-01,Lower-middle-income countries,NA,NA
 2023-08-04,Lower-middle-income countries,0.15463264567536755,0.0017898260468481308
 2023-08-05,Lower-middle-income countries,0.15463264567536755,0.0017898260468481308
 2023-08-06,Lower-middle-income countries,0.1546742695369222,0.003995890709242338
@@ -46249,7 +46142,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Lower-middle-income countries,0.015900315113860138,0
 2024-07-13,Lower-middle-income countries,0.015900315113860138,0
 2024-07-14,Lower-middle-income countries,0.012403910743273091,0
-2023-08-03,Luxembourg,16.323984322798406,0
 2023-08-04,Luxembourg,16.323984322798406,0
 2023-08-05,Luxembourg,16.323984322798406,0
 2023-08-06,Luxembourg,13.015068581690622,0
@@ -46596,7 +46488,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Luxembourg,60.66345525364273,0
 2024-07-13,Luxembourg,60.66345525364273,0
 2024-07-14,Luxembourg,77.64922272466269,0
-2023-08-03,Madagascar,0.13508165922693172,0
 2023-08-04,Madagascar,0.13508165922693172,0
 2023-08-05,Madagascar,0.13508165922693172,0
 2023-08-06,Madagascar,0.009648689944780837,0
@@ -46943,7 +46834,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Madagascar,0,0
 2024-07-13,Madagascar,0,0
 2024-07-14,Madagascar,0.03377041480673293,0
-2023-08-03,Malawi,0.14702049730369307,0
 2023-08-04,Malawi,0.14702049730369307,0
 2023-08-05,Malawi,0.14702049730369307,0
 2023-08-06,Malawi,0.07000976062080623,0
@@ -47290,7 +47180,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Malawi,0,0
 2024-07-13,Malawi,0,0
 2024-07-14,Malawi,0,0
-2023-08-03,Malaysia,5.059614380269303,0.004209329767278953
 2023-08-04,Malaysia,5.059614380269303,0.004209329767278953
 2023-08-05,Malaysia,5.059614380269303,0.004209329767278953
 2023-08-06,Malaysia,4.032537917053238,0.008418659534557907
@@ -47654,7 +47543,7 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-29,Malaysia,0,0.029465308370952677
 2024-07-30,Malaysia,0,0.029465308370952677
 2024-07-31,Malaysia,0,0.029465308370952677
-2023-08-03,Maldives,0,0
+2024-08-01,Malaysia,0,0.029465308370952677
 2023-08-04,Maldives,0,0
 2023-08-05,Maldives,0,0
 2023-08-06,Maldives,1.9091329100149295,0
@@ -48001,7 +47890,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Maldives,0,0
 2024-07-13,Maldives,0,0
 2024-07-14,Maldives,0,0
-2023-08-03,Mali,0,0
 2023-08-04,Mali,0,0
 2023-08-05,Mali,0,0
 2023-08-06,Mali,0,0
@@ -48348,7 +48236,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Mali,0,0
 2024-07-13,Mali,0,0
 2024-07-14,Mali,0.012645807264265112,0
-2023-08-03,Malta,36.16344914655599,0.8036322032567998
 2023-08-04,Malta,36.16344914655599,0.8036322032567998
 2023-08-05,Malta,36.16344914655599,0.8036322032567998
 2023-08-06,Malta,40.449487563925594,0.26787740108559993
@@ -48695,7 +48582,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Malta,71.25538868876959,0.8036322032567998
 2024-07-13,Malta,71.25538868876959,0.8036322032567998
 2024-07-14,Malta,68.04085987574238,0.5357548021711999
-2023-08-03,Marshall Islands,0,0
 2023-08-04,Marshall Islands,0,0
 2023-08-05,Marshall Islands,0,0
 2023-08-06,Marshall Islands,0,0
@@ -49042,7 +48928,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Marshall Islands,0,0
 2024-07-13,Marshall Islands,0,0
 2024-07-14,Marshall Islands,0,0
-2023-08-03,Martinique,0,0
 2023-08-04,Martinique,0,0
 2023-08-05,Martinique,0,0
 2023-08-06,Martinique,0,0
@@ -49389,7 +49274,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Martinique,0,0
 2024-07-13,Martinique,0,0
 2024-07-14,Martinique,0,0
-2023-08-03,Mauritania,0,0
 2023-08-04,Mauritania,0,0
 2023-08-05,Mauritania,0,0
 2023-08-06,Mauritania,0,0
@@ -49736,7 +49620,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Mauritania,0,0
 2024-07-13,Mauritania,0,0
 2024-07-14,Mauritania,0.0301631628030772,0
-2023-08-03,Mauritius,12.092767799289957,0
 2023-08-04,Mauritius,12.092767799289957,0
 2023-08-05,Mauritius,12.092767799289957,0
 2023-08-06,Mauritius,9.344411481269512,0
@@ -50083,7 +49966,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Mauritius,0,0
 2024-07-13,Mauritius,0,0
 2024-07-14,Mauritius,82.12088678245088,0.32980275816245336
-2023-08-03,Mayotte,0,0
 2023-08-04,Mayotte,0,0
 2023-08-05,Mayotte,0,0
 2023-08-06,Mayotte,0,0
@@ -50430,7 +50312,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Mayotte,0,0
 2024-07-13,Mayotte,0,0
 2024-07-14,Mayotte,0,0
-2023-08-03,Mexico,0,0
 2023-08-04,Mexico,0,0
 2023-08-05,Mexico,0,0
 2023-08-06,Mexico,0,0
@@ -50777,7 +50658,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Mexico,0.4548872616822107,0.008963295796693808
 2024-07-13,Mexico,0.4548872616822107,0.008963295796693808
 2024-07-14,Mexico,0.5781325788867505,0.008963295796693808
-2023-08-03,Micronesia (country),0,0
 2023-08-04,Micronesia (country),0,0
 2023-08-05,Micronesia (country),0,0
 2023-08-06,Micronesia (country),0,0
@@ -51124,7 +51004,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Micronesia (country),0,0
 2024-07-13,Micronesia (country),0,0
 2024-07-14,Micronesia (country),0,0
-2023-08-03,Moldova,1.0911812434149941,0
 2023-08-04,Moldova,1.0911812434149941,0
 2023-08-05,Moldova,1.0911812434149941,0
 2023-08-06,Moldova,1.0911812434149941,0
@@ -51471,7 +51350,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Moldova,2.487893234986186,0
 2024-07-13,Moldova,2.487893234986186,0
 2024-07-14,Moldova,6.285203962070366,0.04364724973659976
-2023-08-03,Monaco,15.659438530831475,0
 2023-08-04,Monaco,15.659438530831475,0
 2023-08-05,Monaco,15.659438530831475,0
 2023-08-06,Monaco,23.489157796247213,0
@@ -51818,7 +51696,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Monaco,0,0
 2024-07-13,Monaco,0,0
 2024-07-14,Monaco,0,0
-2023-08-03,Mongolia,0.2942584583858217,0
 2023-08-04,Mongolia,0.2942584583858217,0
 2023-08-05,Mongolia,0.2942584583858217,0
 2023-08-06,Mongolia,0.3783323036389136,0
@@ -52165,7 +52042,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Mongolia,0,0
 2024-07-13,Mongolia,0,0
 2024-07-14,Mongolia,0,0
-2023-08-03,Montenegro,0,0
 2023-08-04,Montenegro,0,0
 2023-08-05,Montenegro,0,0
 2023-08-06,Montenegro,0,0
@@ -52512,7 +52388,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Montenegro,0,0
 2024-07-13,Montenegro,0,0
 2024-07-14,Montenegro,0,0
-2023-08-03,Montserrat,0,0
 2023-08-04,Montserrat,0,0
 2023-08-05,Montserrat,0,0
 2023-08-06,Montserrat,0,0
@@ -52859,7 +52734,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Montserrat,0,0
 2024-07-13,Montserrat,0,0
 2024-07-14,Montserrat,0,0
-2023-08-03,Morocco,0.10678633570591213,0
 2023-08-04,Morocco,0.10678633570591213,0
 2023-08-05,Morocco,0.10678633570591213,0
 2023-08-06,Morocco,0.07627595407565152,0
@@ -53206,7 +53080,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Morocco,0,0
 2024-07-13,Morocco,0,0
 2024-07-14,Morocco,0,0
-2023-08-03,Mozambique,0,0
 2023-08-04,Mozambique,0,0
 2023-08-05,Mozambique,0,0
 2023-08-06,Mozambique,0,0
@@ -53553,7 +53426,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Mozambique,0,0
 2024-07-13,Mozambique,0,0
 2024-07-14,Mozambique,0.004333006451326645,0
-2023-08-03,Myanmar,0.20830301953103955,0
 2023-08-04,Myanmar,0.20830301953103955,0
 2023-08-05,Myanmar,0.20830301953103955,0
 2023-08-06,Myanmar,0.08964940081082713,0
@@ -53900,7 +53772,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Myanmar,0.1186536187202124,0
 2024-07-13,Myanmar,0.1186536187202124,0
 2024-07-14,Myanmar,0.10810663038952685,0
-2023-08-03,Namibia,0,0
 2023-08-04,Namibia,0,0
 2023-08-05,Namibia,0,0
 2023-08-06,Namibia,0,0
@@ -54247,7 +54118,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Namibia,0,0
 2024-07-13,Namibia,0,0
 2024-07-14,Namibia,0.7234614312693832,0
-2023-08-03,Nauru,0,0
 2023-08-04,Nauru,0,0
 2023-08-05,Nauru,0,0
 2023-08-06,Nauru,0,0
@@ -54594,7 +54464,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Nauru,0,0
 2024-07-13,Nauru,0,0
 2024-07-14,Nauru,0,0
-2023-08-03,Nepal,0.04208889978128831,0
 2023-08-04,Nepal,0.04208889978128831,0
 2023-08-05,Nepal,0.04208889978128831,0
 2023-08-06,Nepal,0.02805926652085887,0
@@ -54941,7 +54810,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Nepal,0,0
 2024-07-13,Nepal,0,0
 2024-07-14,Nepal,0,0
-2023-08-03,Netherlands,0.7157489328427417,0
 2023-08-04,Netherlands,0.7157489328427417,0
 2023-08-05,Netherlands,0.7157489328427417,0
 2023-08-06,Netherlands,1.0410893568621697,0
@@ -55288,7 +55156,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Netherlands,2.643390945157853,0
 2024-07-13,Netherlands,2.643390945157853,0
 2024-07-14,Netherlands,4.1968914698506214,0
-2023-08-03,New Caledonia,0,0
 2023-08-04,New Caledonia,0,0
 2023-08-05,New Caledonia,0,0
 2023-08-06,New Caledonia,0,0
@@ -55635,7 +55502,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,New Caledonia,0,0
 2024-07-13,New Caledonia,0,0
 2024-07-14,New Caledonia,0,0
-2023-08-03,New Zealand,85.79215986941959,0.4408075009347185
 2023-08-04,New Zealand,85.79215986941959,0.4408075009347185
 2023-08-05,New Zealand,85.79215986941959,0.4408075009347185
 2023-08-06,New Zealand,84.82789346112489,1.1295692211452162
@@ -55996,7 +55862,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-26,New Zealand,611.3449028588377,5.97845173142712
 2024-07-27,New Zealand,611.3449028588377,5.97845173142712
 2024-07-28,New Zealand,611.3449028588377,5.97845173142712
-2023-08-03,Nicaragua,0.24671679060930105,0
 2023-08-04,Nicaragua,0.24671679060930105,0
 2023-08-05,Nicaragua,0.24671679060930105,0
 2023-08-06,Nicaragua,0.1644778604062007,0
@@ -56343,7 +56208,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Nicaragua,0.12335839530465052,0
 2024-07-13,Nicaragua,0.12335839530465052,0
 2024-07-14,Nicaragua,0.08223893020310034,0
-2023-08-03,Niger,0,0
 2023-08-04,Niger,0,0
 2023-08-05,Niger,0,0
 2023-08-06,Niger,0,0
@@ -56690,7 +56554,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Niger,0,0
 2024-07-13,Niger,0,0
 2024-07-14,Niger,0,0
-2023-08-03,Nigeria,0,0
 2023-08-04,Nigeria,0,0
 2023-08-05,Nigeria,0,0
 2023-08-06,Nigeria,0,0
@@ -57037,7 +56900,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Nigeria,0,0
 2024-07-13,Nigeria,0,0
 2024-07-14,Nigeria,0,0
-2023-08-03,Niue,0,0
 2023-08-04,Niue,0,0
 2023-08-05,Niue,0,0
 2023-08-06,Niue,219.5550351288056,0
@@ -57384,7 +57246,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Niue,0,0
 2024-07-13,Niue,0,0
 2024-07-14,Niue,0,0
-2023-08-03,North America,0.334581422063037,0.13897265326089162
 2023-08-04,North America,0.334581422063037,0.13897265326089162
 2023-08-05,North America,0.334581422063037,0.13897265326089162
 2023-08-06,North America,0.30769116552454256,0.16681477728747435
@@ -57741,7 +57602,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-22,North America,1.284307208303137,0.6229972709537915
 2024-07-23,North America,1.284307208303137,0.6229972709537915
 2024-07-24,North America,1.284307208303137,0.6229972709537915
-2023-08-03,North Korea,0,0
 2023-08-04,North Korea,0,0
 2023-08-05,North Korea,0,0
 2023-08-06,North Korea,0,0
@@ -58088,7 +57948,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,North Korea,0,0
 2024-07-13,North Korea,0,0
 2024-07-14,North Korea,0,0
-2023-08-03,North Macedonia,0.2047049103658609,0
 2023-08-04,North Macedonia,0.2047049103658609,0
 2023-08-05,North Macedonia,0.2047049103658609,0
 2023-08-06,North Macedonia,0.2047049103658609,0
@@ -58435,7 +58294,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,North Macedonia,1.0235245518293046,0
 2024-07-13,North Macedonia,1.0235245518293046,0
 2024-07-14,North Macedonia,2.047049103658609,0
-2023-08-03,Northern Ireland,NA,NA
 2023-08-04,Northern Ireland,NA,NA
 2023-08-05,Northern Ireland,NA,NA
 2023-08-06,Northern Ireland,NA,NA
@@ -58566,7 +58424,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2023-12-09,Northern Ireland,NA,NA
 2023-12-10,Northern Ireland,NA,NA
 2023-12-11,Northern Ireland,NA,NA
-2023-08-03,Northern Mariana Islands,0,0
 2023-08-04,Northern Mariana Islands,0,0
 2023-08-05,Northern Mariana Islands,0,0
 2023-08-06,Northern Mariana Islands,152.72982957656376,0
@@ -58913,7 +58770,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Northern Mariana Islands,48.988813260407234,0
 2024-07-13,Northern Mariana Islands,48.988813260407234,0
 2024-07-14,Northern Mariana Islands,83.56915203245941,0
-2023-08-03,Norway,3.1282639754273025,0.13143966283307992
 2023-08-04,Norway,3.1282639754273025,0.13143966283307992
 2023-08-05,Norway,3.1282639754273025,0.13143966283307992
 2023-08-06,Norway,3.522582963926542,0.052575865133231967
@@ -59260,7 +59116,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Norway,13.564573204373847,0
 2024-07-13,Norway,13.564573204373847,0
 2024-07-14,Norway,17.82321828016564,0
-2023-08-03,Oceania,27.639623712881342,0.3203582734680991
 2023-08-04,Oceania,27.639623712881342,0.3203582734680991
 2023-08-05,Oceania,27.639623712881342,0.3203582734680991
 2023-08-06,Oceania,27.278031206194576,0.3203582734680991
@@ -59621,7 +59476,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-26,Oceania,71.16077094313665,0.6882945083423515
 2024-07-27,Oceania,71.16077094313665,0.6882945083423515
 2024-07-28,Oceania,71.16077094313665,0.6882945083423515
-2023-08-03,Oman,0,0
 2023-08-04,Oman,0,0
 2023-08-05,Oman,0,0
 2023-08-06,Oman,0,0
@@ -59968,7 +59822,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Oman,0,0
 2024-07-13,Oman,0,0
 2024-07-14,Oman,0,0
-2023-08-03,Pakistan,0,0
 2023-08-04,Pakistan,0,0
 2023-08-05,Pakistan,0,0
 2023-08-06,Pakistan,0,0
@@ -60315,7 +60168,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Pakistan,0,0
 2024-07-13,Pakistan,0,0
 2024-07-14,Pakistan,0,0
-2023-08-03,Palau,434.48036148766073,0
 2023-08-04,Palau,434.48036148766073,0
 2023-08-05,Palau,434.48036148766073,0
 2023-08-06,Palau,426.5807185515215,0
@@ -60662,7 +60514,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Palau,0,0
 2024-07-13,Palau,0,0
 2024-07-14,Palau,0,0
-2023-08-03,Palestine,0,0
 2023-08-04,Palestine,0,0
 2023-08-05,Palestine,0,0
 2023-08-06,Palestine,0,0
@@ -61009,7 +60860,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Palestine,0,0
 2024-07-13,Palestine,0,0
 2024-07-14,Palestine,0,0
-2023-08-03,Panama,2.4303246972123267,0.03240432929616436
 2023-08-04,Panama,2.4303246972123267,0.03240432929616436
 2023-08-05,Panama,2.4303246972123267,0.03240432929616436
 2023-08-06,Panama,1.814642440585204,0.03240432929616436
@@ -61356,7 +61206,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Panama,1.8470467698813682,0.2268303050731505
 2024-07-13,Panama,1.8470467698813682,0.2268303050731505
 2024-07-14,Panama,2.171090062843012,0.2268303050731505
-2023-08-03,Papua New Guinea,0,0
 2023-08-04,Papua New Guinea,0,0
 2023-08-05,Papua New Guinea,0,0
 2023-08-06,Papua New Guinea,0,0
@@ -61703,7 +61552,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Papua New Guinea,0,0
 2024-07-13,Papua New Guinea,0,0
 2024-07-14,Papua New Guinea,0,0
-2023-08-03,Paraguay,0,0
 2023-08-04,Paraguay,0,0
 2023-08-05,Paraguay,0,0
 2023-08-06,Paraguay,0,0
@@ -62050,7 +61898,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Paraguay,0,0
 2024-07-13,Paraguay,0,0
 2024-07-14,Paraguay,0,0
-2023-08-03,Peru,0,0
 2023-08-04,Peru,0,0
 2023-08-05,Peru,0,0
 2023-08-06,Peru,0,0
@@ -62397,7 +62244,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Peru,0,0
 2024-07-13,Peru,0,0
 2024-07-14,Peru,0,0
-2023-08-03,Philippines,2.0657349854914444,0.039559257651541724
 2023-08-04,Philippines,2.0657349854914444,0.039559257651541724
 2023-08-05,Philippines,2.0657349854914444,0.039559257651541724
 2023-08-06,Philippines,2.2981456241942517,0.10384305133529702
@@ -62744,7 +62590,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Philippines,0,0
 2024-07-13,Philippines,0,0
 2024-07-14,Philippines,0,0
-2023-08-03,Poland,0.168458776531648,0.010752687863722212
 2023-08-04,Poland,0.168458776531648,0.010752687863722212
 2023-08-05,Poland,0.168458776531648,0.010752687863722212
 2023-08-06,Poland,0.336917553063296,0
@@ -63091,7 +62936,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Poland,1.8602150004239426,0.007168458575814808
 2024-07-13,Poland,1.8602150004239426,0.007168458575814808
 2024-07-14,Poland,2.8243726788710344,0.003584229287907404
-2023-08-03,Portugal,25.550795949020756,0.5146322537364005
 2023-08-04,Portugal,25.550795949020756,0.5146322537364005
 2023-08-05,Portugal,25.550795949020756,0.5146322537364005
 2023-08-06,Portugal,23.826082450012276,0.6259040923821089
@@ -63438,7 +63282,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Portugal,37.60988146224938,1.001446547811374
 2024-07-13,Portugal,37.60988146224938,1.001446547811374
 2024-07-14,Portugal,31.976744630810405,1.126627366287796
-2023-08-03,Puerto Rico,0,0
 2023-08-04,Puerto Rico,0,0
 2023-08-05,Puerto Rico,0,0
 2023-08-06,Puerto Rico,0,0
@@ -63785,7 +63628,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Puerto Rico,0,0
 2024-07-13,Puerto Rico,0,0
 2024-07-14,Puerto Rico,0,0
-2023-08-03,Qatar,0,0
 2023-08-04,Qatar,0,0
 2023-08-05,Qatar,0,0
 2023-08-06,Qatar,0,0
@@ -64132,7 +63974,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Qatar,0,0
 2024-07-13,Qatar,0,0
 2024-07-14,Qatar,0,0
-2023-08-03,Reunion,0,0
 2023-08-04,Reunion,0,0
 2023-08-05,Reunion,0,0
 2023-08-06,Reunion,0,0
@@ -64479,7 +64320,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Reunion,0,0
 2024-07-13,Reunion,0,0
 2024-07-14,Reunion,0,0
-2023-08-03,Romania,4.323660034172175,0.0290666220784684
 2023-08-04,Romania,4.323660034172175,0.0290666220784684
 2023-08-05,Romania,4.323660034172175,0.0290666220784684
 2023-08-06,Romania,6.583589900773092,0.0435999331177026
@@ -64826,7 +64666,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Romania,4.53439304424107,0.0072666555196171
 2024-07-13,Romania,4.53439304424107,0.0072666555196171
 2024-07-14,Romania,8.09505424885345,0.0072666555196171
-2023-08-03,Russia,3.141185992422235,0.041461285883637296
 2023-08-04,Russia,3.141185992422235,0.041461285883637296
 2023-08-05,Russia,3.141185992422235,0.041461285883637296
 2023-08-06,Russia,2.946712818158508,0.039486938936797424
@@ -65173,7 +65012,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Russia,5.772003299086364,0.016781949048138903
 2024-07-13,Russia,5.772003299086364,0.016781949048138903
 2024-07-14,Russia,5.279403735849816,0.026653683782338265
-2023-08-03,Rwanda,0,0
 2023-08-04,Rwanda,0,0
 2023-08-05,Rwanda,0,0
 2023-08-06,Rwanda,0,0
@@ -65520,7 +65358,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Rwanda,0,0
 2024-07-13,Rwanda,0,0
 2024-07-14,Rwanda,0.031108419748894077,0
-2023-08-03,Saint Barthelemy,0,0
 2023-08-04,Saint Barthelemy,0,0
 2023-08-05,Saint Barthelemy,0,0
 2023-08-06,Saint Barthelemy,0,0
@@ -65867,7 +65704,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Saint Barthelemy,0,0
 2024-07-13,Saint Barthelemy,0,0
 2024-07-14,Saint Barthelemy,0,0
-2023-08-03,Saint Helena,0,0
 2023-08-04,Saint Helena,0,0
 2023-08-05,Saint Helena,0,0
 2023-08-06,Saint Helena,0,0
@@ -66214,7 +66050,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Saint Helena,0,0
 2024-07-13,Saint Helena,0,0
 2024-07-14,Saint Helena,0,0
-2023-08-03,Saint Kitts and Nevis,0,0
 2023-08-04,Saint Kitts and Nevis,0,0
 2023-08-05,Saint Kitts and Nevis,0,0
 2023-08-06,Saint Kitts and Nevis,0,0
@@ -66561,7 +66396,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Saint Kitts and Nevis,0,0
 2024-07-13,Saint Kitts and Nevis,0,0
 2024-07-14,Saint Kitts and Nevis,0,0
-2023-08-03,Saint Lucia,17.4727425216662,0
 2023-08-04,Saint Lucia,17.4727425216662,0
 2023-08-05,Saint Lucia,17.4727425216662,0
 2023-08-06,Saint Lucia,9.530586829999745,0
@@ -66908,7 +66742,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Saint Lucia,0.7942155691666454,0
 2024-07-13,Saint Lucia,0.7942155691666454,0
 2024-07-14,Saint Lucia,0.7942155691666454,0
-2023-08-03,Saint Martin (French part),0,0
 2023-08-04,Saint Martin (French part),0,0
 2023-08-05,Saint Martin (French part),0,0
 2023-08-06,Saint Martin (French part),0,0
@@ -67255,7 +67088,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Saint Martin (French part),0,0
 2024-07-13,Saint Martin (French part),0,0
 2024-07-14,Saint Martin (French part),0,0
-2023-08-03,Saint Pierre and Miquelon,0,0
 2023-08-04,Saint Pierre and Miquelon,0,0
 2023-08-05,Saint Pierre and Miquelon,0,0
 2023-08-06,Saint Pierre and Miquelon,0,0
@@ -67602,7 +67434,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Saint Pierre and Miquelon,0,0
 2024-07-13,Saint Pierre and Miquelon,0,0
 2024-07-14,Saint Pierre and Miquelon,0,0
-2023-08-03,Saint Vincent and the Grenadines,2.7483362259572113,0
 2023-08-04,Saint Vincent and the Grenadines,2.7483362259572113,0
 2023-08-05,Saint Vincent and the Grenadines,2.7483362259572113,0
 2023-08-06,Saint Vincent and the Grenadines,6.870840564893029,0
@@ -67949,7 +67780,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Saint Vincent and the Grenadines,0,0
 2024-07-13,Saint Vincent and the Grenadines,0,0
 2024-07-14,Saint Vincent and the Grenadines,0,0
-2023-08-03,Samoa,0,0
 2023-08-04,Samoa,0,0
 2023-08-05,Samoa,0,0
 2023-08-06,Samoa,0,0
@@ -68296,7 +68126,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Samoa,0,0
 2024-07-13,Samoa,0,0
 2024-07-14,Samoa,0,0
-2023-08-03,San Marino,38.16308357715304,0
 2023-08-04,San Marino,38.16308357715304,0
 2023-08-05,San Marino,38.16308357715304,0
 2023-08-06,San Marino,38.16308357715304,0
@@ -68643,7 +68472,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,San Marino,0,0
 2024-07-13,San Marino,0,0
 2024-07-14,San Marino,0,0
-2023-08-03,Sao Tome and Principe,0,0
 2023-08-04,Sao Tome and Principe,0,0
 2023-08-05,Sao Tome and Principe,0,0
 2023-08-06,Sao Tome and Principe,0,0
@@ -68990,7 +68818,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Sao Tome and Principe,0,0
 2024-07-13,Sao Tome and Principe,0,0
 2024-07-14,Sao Tome and Principe,0,0
-2023-08-03,Saudi Arabia,0,0
 2023-08-04,Saudi Arabia,0,0
 2023-08-05,Saudi Arabia,0,0
 2023-08-06,Saudi Arabia,0,0
@@ -69337,7 +69164,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Saudi Arabia,0,0
 2024-07-13,Saudi Arabia,0,0
 2024-07-14,Saudi Arabia,0,0
-2023-08-03,Scotland,NA,NA
 2023-08-04,Scotland,NA,NA
 2023-08-05,Scotland,NA,NA
 2023-08-06,Scotland,NA,NA
@@ -69398,7 +69224,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2023-09-30,Scotland,NA,NA
 2023-10-01,Scotland,NA,NA
 2023-10-02,Scotland,NA,NA
-2023-08-03,Senegal,0.02474937871634608,0
 2023-08-04,Senegal,0.02474937871634608,0
 2023-08-05,Senegal,0.02474937871634608,0
 2023-08-06,Senegal,0.02474937871634608,0
@@ -69745,7 +69570,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Senegal,0,0
 2024-07-13,Senegal,0,0
 2024-07-14,Senegal,0.1567460652035252,0
-2023-08-03,Serbia,4.220301483785238,0
 2023-08-04,Serbia,4.220301483785238,0
 2023-08-05,Serbia,4.220301483785238,0
 2023-08-06,Serbia,4.386618783638843,0
@@ -70092,7 +69916,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Serbia,0,0
 2024-07-13,Serbia,0,0
 2024-07-14,Serbia,0,0
-2023-08-03,Seychelles,0,0
 2023-08-04,Seychelles,0,0
 2023-08-05,Seychelles,0,0
 2023-08-06,Seychelles,0,0
@@ -70439,7 +70262,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Seychelles,0,0
 2024-07-13,Seychelles,0,0
 2024-07-14,Seychelles,0,0
-2023-08-03,Sierra Leone,0,0
 2023-08-04,Sierra Leone,0,0
 2023-08-05,Sierra Leone,0,0
 2023-08-06,Sierra Leone,0,0
@@ -70786,7 +70608,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Sierra Leone,0,0
 2024-07-13,Sierra Leone,0,0
 2024-07-14,Sierra Leone,2.274234084855924,0
-2023-08-03,Singapore,120.073532240453,0
 2023-08-04,Singapore,120.073532240453,0
 2023-08-05,Singapore,120.073532240453,0
 2023-08-06,Singapore,125.47151923226738,0
@@ -71133,7 +70954,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Singapore,0,0
 2024-07-13,Singapore,0,0
 2024-07-14,Singapore,0,0
-2023-08-03,Sint Maarten (Dutch part),0,0
 2023-08-04,Sint Maarten (Dutch part),0,0
 2023-08-05,Sint Maarten (Dutch part),0,0
 2023-08-06,Sint Maarten (Dutch part),0,0
@@ -71480,7 +71300,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Sint Maarten (Dutch part),0,0
 2024-07-13,Sint Maarten (Dutch part),0,0
 2024-07-14,Sint Maarten (Dutch part),0,0
-2023-08-03,Slovakia,0.2784515108968834,0
 2023-08-04,Slovakia,0.2784515108968834,0
 2023-08-05,Slovakia,0.2784515108968834,0
 2023-08-06,Slovakia,0.25313773717898497,0
@@ -71827,7 +71646,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Slovakia,0.5315892480758684,0
 2024-07-13,Slovakia,0.5315892480758684,0
 2024-07-14,Slovakia,0.7087856641011578,0
-2023-08-03,Slovenia,1.0782469672113857,0.0673904354507116
 2023-08-04,Slovenia,1.0782469672113857,0.0673904354507116
 2023-08-05,Slovenia,1.0782469672113857,0.0673904354507116
 2023-08-06,Slovenia,1.6173704508170788,0.1347808709014232
@@ -72174,7 +71992,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Slovenia,3.7738643852398503,0.20217130635213484
 2024-07-13,Slovenia,3.7738643852398503,0.20217130635213484
 2024-07-14,Slovenia,5.526015706958352,0.0673904354507116
-2023-08-03,Solomon Islands,0,0
 2023-08-04,Solomon Islands,0,0
 2023-08-05,Solomon Islands,0,0
 2023-08-06,Solomon Islands,0,0
@@ -72521,7 +72338,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Solomon Islands,0,0
 2024-07-13,Solomon Islands,0,0
 2024-07-14,Solomon Islands,0,0
-2023-08-03,Somalia,0,0
 2023-08-04,Somalia,0,0
 2023-08-05,Somalia,0,0
 2023-08-06,Somalia,0,0
@@ -72868,7 +72684,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Somalia,0,0
 2024-07-13,Somalia,0,0
 2024-07-14,Somalia,0,0
-2023-08-03,South Africa,0,0
 2023-08-04,South Africa,0,0
 2023-08-05,South Africa,0,0
 2023-08-06,South Africa,0,0
@@ -73215,7 +73030,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,South Africa,0,0
 2024-07-13,South Africa,0,0
 2024-07-14,South Africa,0.031007220322242873,0
-2023-08-03,South America,0.2756959091037168,6.540828211238831e-4
 2023-08-04,South America,0.2756959091037168,6.540828211238831e-4
 2023-08-05,South America,0.2756959091037168,6.540828211238831e-4
 2023-08-06,South America,0.2609790456284294,0.0013081656422477663
@@ -73562,7 +73376,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,South America,0.330311824667561,6.540828211238831e-4
 2024-07-13,South America,0.330311824667561,6.540828211238831e-4
 2024-07-14,South America,0.35287768199633496,6.540828211238831e-4
-2023-08-03,South Korea,748.7538496801154,0.1571500562696454
 2023-08-04,South Korea,748.7538496801154,0.1571500562696454
 2023-08-05,South Korea,748.7538496801154,0.1571500562696454
 2023-08-06,South Korea,1795.1747191017184,0.5376186135540502
@@ -73909,7 +73722,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,South Korea,0,0
 2024-07-13,South Korea,0,0
 2024-07-14,South Korea,0,0
-2023-08-03,South Sudan,0,0
 2023-08-04,South Sudan,0,0
 2023-08-05,South Sudan,0,0
 2023-08-06,South Sudan,0,0
@@ -74256,7 +74068,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,South Sudan,0,0
 2024-07-13,South Sudan,0,0
 2024-07-14,South Sudan,0,0
-2023-08-03,Spain,0,0
 2023-08-04,Spain,0,0
 2023-08-05,Spain,0,0
 2023-08-06,Spain,0,0
@@ -74603,7 +74414,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Spain,0,0
 2024-07-13,Spain,0,0
 2024-07-14,Spain,0,0
-2023-08-03,Sri Lanka,0.032717149446376756,0
 2023-08-04,Sri Lanka,0.032717149446376756,0
 2023-08-05,Sri Lanka,0.032717149446376756,0
 2023-08-06,Sri Lanka,0.006543429889275351,0.013086859778550702
@@ -74950,7 +74760,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Sri Lanka,0,0
 2024-07-13,Sri Lanka,0,0
 2024-07-14,Sri Lanka,0,0
-2023-08-03,Sudan,0,0
 2023-08-04,Sudan,0,0
 2023-08-05,Sudan,0,0
 2023-08-06,Sudan,0,0
@@ -75297,7 +75106,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Sudan,0,0
 2024-07-13,Sudan,0,0
 2024-07-14,Sudan,0,0
-2023-08-03,Suriname,0,0
 2023-08-04,Suriname,0,0
 2023-08-05,Suriname,0,0
 2023-08-06,Suriname,0,0
@@ -75644,7 +75452,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Suriname,0,0
 2024-07-13,Suriname,0,0
 2024-07-14,Suriname,0.23114322049999977,0
-2023-08-03,Sweden,2.342730884558442,0.2843777374319496
 2023-08-04,Sweden,2.342730884558442,0.2843777374319496
 2023-08-05,Sweden,2.342730884558442,0.2843777374319496
 2023-08-06,Sweden,3.0469043296280316,0.1895851582879664
@@ -75991,7 +75798,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Sweden,3.520867225347948,0.06770898510284515
 2024-07-13,Sweden,3.520867225347948,0.06770898510284515
 2024-07-14,Sweden,4.265666061479244,0
-2023-08-03,Switzerland,2.8602577595646737,0.016344330054655277
 2023-08-04,Switzerland,2.8602577595646737,0.016344330054655277
 2023-08-05,Switzerland,2.8602577595646737,0.016344330054655277
 2023-08-06,Switzerland,3.481342301641574,0.032688660109310555
@@ -76338,7 +76144,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Switzerland,6.521387691807456,0
 2024-07-13,Switzerland,6.521387691807456,0
 2024-07-14,Switzerland,8.057754716945052,0
-2023-08-03,Syria,0,0
 2023-08-04,Syria,0,0
 2023-08-05,Syria,0,0
 2023-08-06,Syria,0,0
@@ -76685,7 +76490,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Syria,0,0
 2024-07-13,Syria,0,0
 2024-07-14,Syria,0,0
-2023-08-03,Taiwan,NA,NA
 2023-08-04,Taiwan,NA,NA
 2023-08-05,Taiwan,NA,NA
 2023-08-06,Taiwan,NA,NA
@@ -76738,7 +76542,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2023-09-22,Taiwan,NA,NA
 2023-09-23,Taiwan,NA,NA
 2023-09-24,Taiwan,NA,NA
-2023-08-03,Tajikistan,0,0
 2023-08-04,Tajikistan,0,0
 2023-08-05,Tajikistan,0,0
 2023-08-06,Tajikistan,0,0
@@ -77085,7 +76888,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Tajikistan,0,0
 2024-07-13,Tajikistan,0,0
 2024-07-14,Tajikistan,0,0
-2023-08-03,Tanzania,0,0
 2023-08-04,Tanzania,0,0
 2023-08-05,Tanzania,0,0
 2023-08-06,Tanzania,0,0
@@ -77432,7 +77234,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Tanzania,0,0
 2024-07-13,Tanzania,0,0
 2024-07-14,Tanzania,0,0
-2023-08-03,Thailand,0.7790719857095164,0.013947580306819987
 2023-08-04,Thailand,0.7790719857095164,0.013947580306819987
 2023-08-05,Thailand,0.7790719857095164,0.013947580306819987
 2023-08-06,Thailand,0.5339930746039653,0.023910137668834264
@@ -77779,7 +77580,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Thailand,2.743688297498732,0.02191762619643141
 2024-07-13,Thailand,2.743688297498732,0.02191762619643141
 2024-07-14,Thailand,2.0004815182924665,0.009962557362014277
-2023-08-03,East Timor,0,0
 2023-08-04,East Timor,0,0
 2023-08-05,East Timor,0,0
 2023-08-06,East Timor,0,0
@@ -77891,7 +77691,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2023-11-20,East Timor,0,0
 2023-11-21,East Timor,0,0
 2023-11-22,East Timor,0,0
-2023-08-03,Togo,0,0
 2023-08-04,Togo,0,0
 2023-08-05,Togo,0,0
 2023-08-06,Togo,0.01614442153730411,0
@@ -78238,7 +78037,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Togo,0,0
 2024-07-13,Togo,0,0
 2024-07-14,Togo,0,0
-2023-08-03,Tokelau,0,0
 2023-08-04,Tokelau,0,0
 2023-08-05,Tokelau,0,0
 2023-08-06,Tokelau,0,0
@@ -78585,7 +78383,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Tokelau,0,0
 2024-07-13,Tokelau,0,0
 2024-07-14,Tokelau,0,0
-2023-08-03,Tonga,0,0
 2023-08-04,Tonga,0,0
 2023-08-05,Tonga,0,0
 2023-08-06,Tonga,0,0
@@ -78932,7 +78729,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Tonga,0,0
 2024-07-13,Tonga,0,0
 2024-07-14,Tonga,4.010325250745586,0
-2023-08-03,Trinidad and Tobago,0,0
 2023-08-04,Trinidad and Tobago,0,0
 2023-08-05,Trinidad and Tobago,0,0
 2023-08-06,Trinidad and Tobago,0,0
@@ -79279,7 +79075,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Trinidad and Tobago,0,0
 2024-07-13,Trinidad and Tobago,0,0
 2024-07-14,Trinidad and Tobago,0,0
-2023-08-03,Tunisia,0,0
 2023-08-04,Tunisia,0,0
 2023-08-05,Tunisia,0,0
 2023-08-06,Tunisia,0,0
@@ -79626,7 +79421,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Tunisia,0,0
 2024-07-13,Tunisia,0,0
 2024-07-14,Tunisia,0,0
-2023-08-03,Turkey,0,0
 2023-08-04,Turkey,0,0
 2023-08-05,Turkey,0,0
 2023-08-06,Turkey,0,0
@@ -79973,7 +79767,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Turkey,0,0
 2024-07-13,Turkey,0,0
 2024-07-14,Turkey,0.0016739518838199186,0
-2023-08-03,Turkmenistan,0,0
 2023-08-04,Turkmenistan,0,0
 2023-08-05,Turkmenistan,0,0
 2023-08-06,Turkmenistan,0,0
@@ -80320,7 +80113,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Turkmenistan,0,0
 2024-07-13,Turkmenistan,0,0
 2024-07-14,Turkmenistan,0,0
-2023-08-03,Turks and Caicos Islands,49.98719078236201,0
 2023-08-04,Turks and Caicos Islands,49.98719078236201,0
 2023-08-05,Turks and Caicos Islands,49.98719078236201,0
 2023-08-06,Turks and Caicos Islands,9.372598271692878,0
@@ -80667,7 +80459,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Turks and Caicos Islands,59.3597890540549,0
 2024-07-13,Turks and Caicos Islands,59.3597890540549,0
 2024-07-14,Turks and Caicos Islands,18.745196543385756,0
-2023-08-03,Tuvalu,0,0
 2023-08-04,Tuvalu,0,0
 2023-08-05,Tuvalu,0,0
 2023-08-06,Tuvalu,0,0
@@ -81014,7 +80805,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Tuvalu,0,0
 2024-07-13,Tuvalu,0,0
 2024-07-14,Tuvalu,0,0
-2023-08-03,Uganda,0,0
 2023-08-04,Uganda,0,0
 2023-08-05,Uganda,0,0
 2023-08-06,Uganda,0.30234579581337906,0
@@ -81361,7 +81151,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Uganda,0,0
 2024-07-13,Uganda,0,0
 2024-07-14,Uganda,0.006046915916267581,0
-2023-08-03,Ukraine,0,0
 2023-08-04,Ukraine,0,0
 2023-08-05,Ukraine,0,0
 2023-08-06,Ukraine,0,0
@@ -81708,7 +81497,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Ukraine,0.14033208645515854,0
 2024-07-13,Ukraine,0.14033208645515854,0
 2024-07-14,Ukraine,0.15472512096337993,0
-2023-08-03,United Arab Emirates,0,0
 2023-08-04,United Arab Emirates,0,0
 2023-08-05,United Arab Emirates,0,0
 2023-08-06,United Arab Emirates,0,0
@@ -82055,7 +81843,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,United Arab Emirates,0,0
 2024-07-13,United Arab Emirates,0,0
 2024-07-14,United Arab Emirates,0,0
-2023-08-03,United Kingdom,9.897102468669585,0.17775424574903684
 2023-08-04,United Kingdom,9.897102468669585,0.17775424574903684
 2023-08-05,United Kingdom,9.897102468669585,0.17775424574903684
 2023-08-06,United Kingdom,13.359078016829399,0.21796056323989038
@@ -82402,7 +82189,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,United Kingdom,9.446368488377384,0
 2024-07-13,United Kingdom,9.446368488377384,0
 2024-07-14,United Kingdom,7.378917320558231,0
-2023-08-03,United States,0,0.23394983839792446
 2023-08-04,United States,0,0.23394983839792446
 2023-08-05,United States,0,0.23394983839792446
 2023-08-06,United States,0,0.28378030939242826
@@ -82749,7 +82535,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,United States,0,0.16638309806639395
 2024-07-13,United States,0,0.16638309806639395
 2024-07-14,United States,0,0.15118058149179958
-2023-08-03,United States Virgin Islands,91.90740902961572,0
 2023-08-04,United States Virgin Islands,91.90740902961572,0
 2023-08-05,United States Virgin Islands,91.90740902961572,0
 2023-08-06,United States Virgin Islands,0,0
@@ -83096,7 +82881,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,United States Virgin Islands,0,0
 2024-07-13,United States Virgin Islands,0,0
 2024-07-14,United States Virgin Islands,0,0
-2023-08-03,Upper-middle-income countries,NA,NA
 2023-08-04,Upper-middle-income countries,NA,NA
 2023-08-05,Upper-middle-income countries,NA,NA
 2023-08-06,Upper-middle-income countries,NA,NA
@@ -83460,7 +83244,7 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-29,Upper-middle-income countries,NA,NA
 2024-07-30,Upper-middle-income countries,NA,NA
 2024-07-31,Upper-middle-income countries,NA,NA
-2023-08-03,Upper-middle-income countries,0.5097432879525695,0.004241733784138767
+2024-08-01,Upper-middle-income countries,NA,NA
 2023-08-04,Upper-middle-income countries,0.5097432879525695,0.004241733784138767
 2023-08-05,Upper-middle-income countries,0.5097432879525695,0.004241733784138767
 2023-08-06,Upper-middle-income countries,0.4643284582370571,0.009784265928746757
@@ -83807,7 +83591,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Upper-middle-income countries,0.7973328385171778,0.0026015967209384438
 2024-07-13,Upper-middle-income countries,0.7973328385171778,0.0026015967209384438
 2024-07-14,Upper-middle-income countries,0.6158431890064938,0.002884378973214362
-2023-08-03,Uruguay,0,0
 2023-08-04,Uruguay,0,0
 2023-08-05,Uruguay,0,0
 2023-08-06,Uruguay,0,0
@@ -84154,7 +83937,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Uruguay,0.1669478903880253,0
 2024-07-13,Uruguay,0.1669478903880253,0
 2024-07-14,Uruguay,0.3338957807760506,0
-2023-08-03,Uzbekistan,0.7673471952651411,0
 2023-08-04,Uzbekistan,0.7673471952651411,0
 2023-08-05,Uzbekistan,0.7673471952651411,0
 2023-08-06,Uzbekistan,0.7260919697132517,0
@@ -84501,7 +84283,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Uzbekistan,0,0
 2024-07-13,Uzbekistan,0,0
 2024-07-14,Uzbekistan,0,0
-2023-08-03,Vanuatu,0,0
 2023-08-04,Vanuatu,0,0
 2023-08-05,Vanuatu,0,0
 2023-08-06,Vanuatu,0,0
@@ -84848,7 +84629,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Vanuatu,0,0
 2024-07-13,Vanuatu,0,0
 2024-07-14,Vanuatu,0,0
-2023-08-03,Vatican,0,0
 2023-08-04,Vatican,0,0
 2023-08-05,Vatican,0,0
 2023-08-06,Vatican,0,0
@@ -85195,7 +84975,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Vatican,0,0
 2024-07-13,Vatican,0,0
 2024-07-14,Vatican,0,0
-2023-08-03,Venezuela,0,0
 2023-08-04,Venezuela,0,0
 2023-08-05,Venezuela,0,0
 2023-08-06,Venezuela,0,0
@@ -85542,7 +85321,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Venezuela,0,0
 2024-07-13,Venezuela,0,0
 2024-07-14,Venezuela,0,0
-2023-08-03,Vietnam,0.2895354081667655,0
 2023-08-04,Vietnam,0.2895354081667655,0
 2023-08-05,Vietnam,0.2895354081667655,0
 2023-08-06,Vietnam,0.26189132396993864,0
@@ -85889,7 +85667,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Vietnam,0,0
 2024-07-13,Vietnam,0,0
 2024-07-14,Vietnam,0,0
-2023-08-03,Wallis and Futuna,0,0
 2023-08-04,Wallis and Futuna,0,0
 2023-08-05,Wallis and Futuna,0,0
 2023-08-06,Wallis and Futuna,0,0
@@ -86236,7 +86013,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Wallis and Futuna,0,0
 2024-07-13,Wallis and Futuna,0,0
 2024-07-14,Wallis and Futuna,0,0
-2023-08-03,World,5.67842051781361,0.019739999781170456
 2023-08-04,World,5.67842051781361,0.019739999781170456
 2023-08-05,World,5.67842051781361,0.019739999781170456
 2023-08-06,World,12.568916430539105,0.02806949152186398
@@ -86600,7 +86376,7 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-29,World,4.266777665948892,0.0709708522078016
 2024-07-30,World,4.266777665948892,0.0709708522078016
 2024-07-31,World,4.266777665948892,0.0709708522078016
-2023-08-03,Yemen,0,0
+2024-08-01,World,4.266777665948892,0.0709708522078016
 2023-08-04,Yemen,0,0
 2023-08-05,Yemen,0,0
 2023-08-06,Yemen,0,0
@@ -86947,7 +86723,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Yemen,0,0
 2024-07-13,Yemen,0,0
 2024-07-14,Yemen,0,0
-2023-08-03,Zambia,0,0
 2023-08-04,Zambia,0,0
 2023-08-05,Zambia,0,0
 2023-08-06,Zambia,0,0
@@ -87294,7 +87069,6 @@ date,country,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-12,Zambia,0,0
 2024-07-13,Zambia,0,0
 2024-07-14,Zambia,0.19268690397747876,0
-2023-08-03,Zimbabwe,0,0.008753212308560573
 2023-08-04,Zimbabwe,0,0.008753212308560573
 2023-08-05,Zimbabwe,0,0.008753212308560573
 2023-08-06,Zimbabwe,0.20132388309689317,0.008753212308560573
