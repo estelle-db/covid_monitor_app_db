@@ -9701,27 +9701,48 @@ date,continent,new_cases_avg_per_pop,new_deaths_avg_per_pop
 2024-07-28,Oceania,NA,NA
 2024-07-28,North America,NA,NA
 2024-07-28,South America,NA,NA
-2024-07-29,Europe,NA,NA
 2024-07-29,Asia,NA,NA
+2024-07-29,Europe,NA,NA
+2024-07-29,Africa,NA,NA
 2024-07-29,Oceania,NA,NA
-2024-07-30,Europe,NA,NA
+2024-07-29,North America,NA,NA
+2024-07-29,South America,NA,NA
 2024-07-30,Asia,NA,NA
+2024-07-30,Europe,NA,NA
+2024-07-30,Africa,NA,NA
 2024-07-30,Oceania,NA,NA
-2024-07-31,Europe,NA,NA
+2024-07-30,North America,NA,NA
+2024-07-30,South America,NA,NA
 2024-07-31,Asia,NA,NA
+2024-07-31,Europe,NA,NA
+2024-07-31,Africa,NA,NA
 2024-07-31,Oceania,NA,NA
-2024-08-01,Europe,NA,NA
+2024-07-31,North America,NA,NA
+2024-07-31,South America,NA,NA
 2024-08-01,Asia,NA,NA
+2024-08-01,Europe,NA,NA
+2024-08-01,Africa,NA,NA
 2024-08-01,Oceania,NA,NA
-2024-08-02,Europe,NA,NA
+2024-08-01,North America,NA,NA
+2024-08-01,South America,NA,NA
 2024-08-02,Asia,NA,NA
+2024-08-02,Europe,NA,NA
+2024-08-02,Africa,NA,NA
 2024-08-02,Oceania,NA,NA
-2024-08-03,Europe,NA,NA
+2024-08-02,North America,NA,NA
+2024-08-02,South America,NA,NA
 2024-08-03,Asia,NA,NA
+2024-08-03,Europe,NA,NA
+2024-08-03,Africa,NA,NA
 2024-08-03,Oceania,NA,NA
-2024-08-04,Europe,NA,NA
+2024-08-03,North America,NA,NA
+2024-08-03,South America,NA,NA
 2024-08-04,Asia,NA,NA
+2024-08-04,Europe,NA,NA
+2024-08-04,Africa,NA,NA
 2024-08-04,Oceania,NA,NA
+2024-08-04,North America,NA,NA
+2024-08-04,South America,NA,NA
 2024-08-05,Europe,NA,NA
 2024-08-05,Asia,NA,NA
 2024-08-05,Oceania,NA,NA
